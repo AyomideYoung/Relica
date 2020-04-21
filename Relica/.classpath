@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/main" kind="src" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/test" kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="lib" path="C:/Users/habit/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.11.0.rc1/544a860c36bd64eb2ba0ea4f1304ebc61846c9ea/jackson-databind-2.11.0.rc1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/habit/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.11.0.rc1/f38d7bd917d96c4db03a8bb49057b23e514ea01f/jackson-annotations-2.11.0.rc1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/habit/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.11.0.rc1/24a6292f6ec145e0c4ee10145369010cba0daf67/jackson-core-2.11.0.rc1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main"/>
+		</attributes>
+	</classpathentry>
+</classpath>

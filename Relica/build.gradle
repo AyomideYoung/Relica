@@ -1,0 +1,30 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+buildscript{
+	ext {
+		jacksonVersion = "2.11.0.rc1"
+	}
+	
+	dependencies{
+		classpath("com.fasterxml.jackson.core:jackson-databind:${jacksonVersion}")
+	}
+	
+	repositories{
+		mavenCentral()
+	}
+}
+mainClassName = "com.zapsoftco.relica.StartUp"
+group = 'com.zapsoftco'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 1.8
+
+repositories{
+	mavenCentral()
+}
+
+dependencies{
+	compile("com.fasterxml.jackson.core:jackson-databind:${jacksonVersion}")
+	testCompile("org.junit.jupiter:junit-jupiter-api:5.5.2")
+}
