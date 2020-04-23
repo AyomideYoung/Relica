@@ -3,6 +3,7 @@ package com.zapsoftco.relica.util;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.net.URLConnection;
 import java.util.Properties;
 
 import com.fasterxml.jackson.core.JsonParseException;
@@ -42,9 +43,10 @@ public  class ResourceManager {
 	private static URL getResourceFromRelicaServer(String uri) {
 		try {
 			Properties props = getApplicationProperties();
-			String serverURI = props.getProperty("relica.base_server_uri");
-			URL url = new URL(serverURI);
+			String resourceURI = props.getProperty("relica.base_server_uri") + uri;
+			URL url = new URL(resourceURI);
 			return url;
+			
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		}
@@ -56,7 +58,12 @@ public  class ResourceManager {
 		try {
 			URL url = getRemoteResource(uri, uriType);
 			ObjectMapper mapper = new ObjectMapper();
-			T model = mapper.readValue(url.openStream(), modelClass);
+			
+			URLConnection connection = url.openConnection();
+			connection.setConnectTimeout(10000);
+			connection.connect();
+			
+			T model = mapper.readValue(connection.getInputStream(), modelClass);
 			return model;
 		} catch (JsonParseException e) {
 			e.printStackTrace();
