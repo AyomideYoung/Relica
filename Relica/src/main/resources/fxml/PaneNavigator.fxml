@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.image.Image?>
+<?import java.lang.String?>
+<?import javafx.scene.control.Label?>
+
+<VBox xmlns:fx="http://javafx.com/fxml/1" 
+		fx:id="navigatorRoot"
+		fx:controller="com.zapsoftco.relica.util.RootPaneManager">
+	<FlowPane fx:id="navigatorButtonContainer">
+		<Button fx:id="navigateBackButton" id="navigate-back-button">
+			<graphic>
+				<ImageView>
+					<image>
+						<Image url="/images/back.png" 
+								requestedWidth="37"
+								preserveRatio="true"></Image>
+					</image>
+				</ImageView>
+			</graphic>
+		</Button>
+	</FlowPane>
+	<stylesheets>
+		<String fx:value="/css/navigator.css"/>
+	</stylesheets>
+</VBox>
+

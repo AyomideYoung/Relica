@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+
+<VBox xmlns:fx="http://javafx.com/fxml/1">
+	<FlowPane>
+		<Button width="32" height="64">
+			<graphic>
+				<ImageView>
+					<Image url="/images/back.png"/>
+				</ImageView>
+			</graphic>
+		</Button>
+	</FlowPane>
+	<StackPane></StackPane>
+</VBox>
+

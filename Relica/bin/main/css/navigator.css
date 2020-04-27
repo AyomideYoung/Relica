@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+#navigate-back-button {
+	-fx-padding:0;
+}
+
+.pane {
+	-fx-background-color: blue;
+	-fx-bprder-style: solid;
+	-fx-border-width: 4px;
+	-fx-border-color:#000000;
+}
+
+
+
