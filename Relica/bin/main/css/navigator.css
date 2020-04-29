@@ -5,7 +5,7 @@
 }
 
 .pane {
-	-fx-background-color: blue;
+	-fx-background-color: red;
 	-fx-bprder-style: solid;
 	-fx-border-width: 4px;
 	-fx-border-color:#000000;

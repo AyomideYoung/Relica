@@ -9,9 +9,10 @@
 <?import java.lang.String?>
 <?import javafx.scene.control.Label?>
 
-<VBox xmlns:fx="http://javafx.com/fxml/1" fx:id="navigatorRoot">
+<VBox xmlns:fx="http://javafx.com/fxml/1" >
 	<FlowPane fx:id="navigatorButtonContainer">
-		<Button fx:id="navigateBackButton" id="navigate-back-button">
+		<Button id="navigate-back-button"
+				onAction="#navigateBackwards">
 			<graphic>
 				<ImageView>
 					<image>

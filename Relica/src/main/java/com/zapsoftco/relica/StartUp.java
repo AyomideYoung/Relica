@@ -4,11 +4,13 @@ import java.io.IOException;
 import java.net.URL;
 
 import com.zapsoftco.relica.util.ResourceManager;
+import com.zapsoftco.relica.util.PaneNavigator;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
+import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
 
@@ -34,7 +36,7 @@ public class StartUp extends Application {
 	private Pane loadLogin() {
 		
 		try {
-			URL loginFxmlLocation = ResourceManager.getLocalResource("fxml/PaneNavigator.fxml");
+			URL loginFxmlLocation = ResourceManager.getLocalResource("fxml/Login.fxml");
 			Pane pane = FXMLLoader.load(loginFxmlLocation);
 			return pane;
 		} catch (IOException e) {

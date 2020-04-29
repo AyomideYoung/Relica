@@ -11,7 +11,18 @@ import javafx.scene.Scene;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.layout.Pane;
 
-public class RootPaneManager {
+
+/**
+ * This class's main use is to navigate through the panes of a scene.
+ * It sets up a parent-child relationship between different panes and provides
+ * a user interface for navigating from child to parent.
+ * 
+ * <p>
+ * <b>NOTE:</b> the {@code PaneNavigator} does not allow forward 
+ * navigation
+ *
+ */
+public class PaneNavigator{
 
 	private Scene scene;
 	private Deque<Pane> paneQueue = new LinkedList<>();
@@ -20,25 +31,49 @@ public class RootPaneManager {
 	@FXML
 	private FlowPane navigatorButtonContainer;
 
-
-	public RootPaneManager(Scene scene) {
+	/**
+	 * Creates a new instance of {@code PaneNavigator} and passes the scene 
+	 * it operates on
+	 * @param scene
+	 * the scene whose pane to navigate
+	 */
+	public PaneNavigator(Scene scene) {
 		this.scene = scene;
 		paneNavigatorUI = loadPaneNavigatorUI();
 	}
 
-	public void replaceParentPane(Pane pane) {
-		scene.setRoot(pane);
+	/**
+	 * Replaces the primary pane for the navigator.
+	 * Calling this method will also cause the navigator to
+	 * remove any data (including all subpanes) associated with the
+	 * previous parent pane
+	 * @param newPane
+	 * the new parent pane
+	 * 
+	 */
+	public void replacePrimaryPane(Pane newPane) {
+		scene.setRoot(newPane);
 		paneQueue.clear();
-		paneQueue.add(pane);
+		paneQueue.add(newPane);
 	}
 
-	public void addPaneAsSubPane(Pane pane) {
+	/**
+	 * Adds the new pane as the subpane of the currently displayed pane
+	 * 
+	 * @param newPane
+	 * the pane to be added as subpane
+	 * 
+	 */
+	public void addPaneAsSubPane(Pane newPane) {
 		scene.setRoot(paneNavigatorUI);
 		refreshNavigatorUI();
-		paneNavigatorUI.getChildren().add(pane);
-		paneQueue.add(pane);
+		paneNavigatorUI.getChildren().add(newPane);
+		paneQueue.add(newPane);
 	}
 
+	/**
+	 * Navigates to the immediate parent pane of the currently displayed pane 
+	 */
 	public void navigateBackwards() {
 		boolean isCurrentPaneLastSubPane = paneQueue.size() == 2;
 
@@ -49,6 +84,7 @@ public class RootPaneManager {
 		}
 	}
 
+	
 	private void showFirstPaneAsRootAndUpdatePaneQueue() {
 		paneQueue.removeLast();
 		scene.setRoot(paneQueue.getFirst());
@@ -60,6 +96,7 @@ public class RootPaneManager {
 		refreshNavigatorUI();
 		paneNavigatorUI.getChildren().add(immediateParentPane);
 	}
+	
 	private void refreshNavigatorUI() {
 		paneNavigatorUI.getChildren()
 		.removeIf(e -> !e.equals(navigatorButtonContainer));
@@ -69,7 +106,11 @@ public class RootPaneManager {
 	private Pane loadPaneNavigatorUI() {
 		try {
 			URL paneNavigatorUrl = ResourceManager.getLocalResource("fxml/PaneNavigator.fxml");
-			Pane pane = FXMLLoader.load(paneNavigatorUrl);
+			FXMLLoader loader = new FXMLLoader(paneNavigatorUrl);
+			loader.setController(this);
+			
+			Pane pane = loader.load();
+			
 			return pane;
 		} catch (IOException e) {
 			e.printStackTrace();
