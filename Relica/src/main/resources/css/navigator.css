@@ -1,15 +1,17 @@
 @charset "ISO-8859-1";
 
 #navigate-back-button {
-	-fx-padding:0;
+	-fx-padding: 3px;
+	-fx-background-color:  white;
 }
 
-.pane {
-	-fx-background-color: red;
-	-fx-bprder-style: solid;
-	-fx-border-width: 4px;
-	-fx-border-color:#000000;
+#navigate-back-button:hover {
+	-fx-background-color: #cdcdcd;
 }
 
+#navigator-root {
+	-fx-background-color: white;
+	
+}
 
 

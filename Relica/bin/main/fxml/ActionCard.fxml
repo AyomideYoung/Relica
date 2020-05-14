@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.control.Button?>
+<?import java.lang.String?>
+
+<fx:root xmlns:fx="http://javafx.com/fxml/1"
+		type="javafx.scene.layout.VBox">
+	<ImageView fx:id="iconView">
+	</ImageView>
+	<BorderPane fx:id="lowerRibbon">
+		<center>
+			<Label fx:id="cardTitle"
+					styleClass="title">		
+			</Label>
+		</center>
+		<right>
+			<Button fx:id="helpButton"
+					prefWidth="32"
+					prefHeight="${helpButton.width}"
+					>
+				?
+			</Button>
+		</right>
+		<bottom>
+		<Label fx:id="helpText"
+			managed="false"
+			visible="false"
+			wrapText="true"></Label>
+		</bottom>
+	</BorderPane>
+</fx:root>
+

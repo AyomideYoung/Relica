@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Button?>
+<?import java.lang.String?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.ProgressIndicator?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+
+<StackPane xmlns:fx="http://javafx.com/fxml/1"
+		alignment ="CENTER">
+	<fx:define>
+	<VBox fx:id="usernameForm" 
+			alignment ="CENTER"
+			spacing="5"
+			styleClass="pane">
+		<Label text = "@Your preferred Username"/>
+		<TextField fx:id = "usernameField"
+				promptText="Username"
+				onKeyTyped="#checkForUsername"
+				prefColumnCount = "32"
+				maxWidth="300"/>
+		<Button fx:id = "usernameFormNextBtn" 
+				text="Next"
+				onAction="#slideToPasswordForm"
+				prefWidth="${usernameField.width}"/>
+		<Label fx:id="invalidUsernameText" text="Go"
+				visible="false"/>
+		<stylesheets>
+			<String fx:value = "/css/signup.css"/>
+		</stylesheets>
+	</VBox>
+	</fx:define>
+	<fx:define>
+		<VBox fx:id = "passwordForm" 
+				alignment="CENTER" 
+				spacing="5"
+				styleClass="pane">
+			<Label text="Type your preferred password"
+					labelFor="${passwordField}"/>
+			<PasswordField fx:id="passwordField"
+					promptText = "Password"
+					maxWidth="300"
+					prefColumnCount="32"/>
+			<Label text="Confirm password"/>
+			<PasswordField fx:id="confirmPasswordField"
+					promptText = "Confirm Password"
+					maxWidth="300"
+					prefColumnCount = "32" />
+			<Button id="passwordNextBtn" text = "Next"
+					onAction = "#slideToEmailForm"
+					prefWidth="${passwordField.width}"/>
+			<stylesheets>
+				<String fx:value = "/css/signup.css"/>
+			</stylesheets>
+		</VBox>
+	</fx:define>
+	<fx:define>
+		<StackPane fx:id="emailFormContainer">
+			<VBox fx:id ="emailForm"
+					alignment="CENTER"
+					spacing = "5"
+					styleClass="pane">
+				<TextField fx:id="emailAddressField"
+						promptText="Email Adress"
+						maxWidth="300"/>
+				<Button fx:id = "emailSubmitBtn"
+						onAction = "#signup"
+						text = "Submit"
+						prefWidth = "${emailAddressField.width}"/>
+				<stylesheets>
+					<String fx:value = "/css/signup.css"/>
+				</stylesheets>
+			</VBox>
+			<VBox fx:id="overlay"
+					visible="false"
+					alignment="TOP_CENTER"
+					styleClass="pane">
+				<Label fx:id="progressLabel"
+						alignment="CENTER"
+						prefWidth="64"
+						prefHeight="64"
+						styleClass="solid-round-success">
+					<graphic>
+						<ImageView image="${tickImage}"/>
+					</graphic>
+				</Label>
+				
+					
+				<stylesheets>
+					<String fx:value = "/css/signup.css"/>
+				</stylesheets>
+			</VBox>
+			<stylesheets>
+				<String fx:value = "/css/signup.css"/>
+			</stylesheets>
+		</StackPane>
+	</fx:define>
+	<ImageView>
+		<image>
+			<Image fx:id="tickImage" 
+					url="/images/greenTick.png"
+					requestedWidth="40"
+					requestedHeight="40"
+					smooth="true"/>
+		</image>
+	</ImageView>
+	<stylesheets>
+		<String fx:value = "/css/signup.css"/>
+	</stylesheets>
+</StackPane>
+

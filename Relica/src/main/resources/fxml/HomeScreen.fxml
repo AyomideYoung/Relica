@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.HBox?>
+<?import com.zapsoftco.relica.util.reusable.ActionCard?>
+<?import javafx.scene.image.Image?>
+<?import java.lang.String?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.Label?>
+
+<VBox xmlns:fx="http://javafx.com/fxml/1"
+		styleClass="pane"
+		alignment = "CENTER"
+		spacing = "12">
+		<fx:define>
+			<String fx:id="welcomeText" fx:value="Welcome User to Relica"/>
+		</fx:define>
+	<Label id="welcome-header" text="$welcomeText"/>
+	<Label id="sub-header" text="How are we rolling today?"/>
+	<HBox fillHeight="false"
+			alignment="CENTER"
+			spacing="20">
+		<ActionCard fx:id="auctionCard" id="auction-card"
+			 onAction="#runAction">
+			<image>
+				<Image url="@../images/auction-icon.png" requestedWidth="150"
+					requestedHeight="150" smooth="true" />
+			</image>
+			<title>Auctions</title>
+			<helpText>Bla Bla Bla</helpText>
+		</ActionCard>
+		<ActionCard fx:id="tradeCard" id="trade-card"
+			onAction="#runAction">
+			<image>
+				<Image url="@../images/trade-icon.png" requestedWidth="150"
+					requestedHeight="150" smooth="true" />
+			</image>
+			<title>Trade</title>
+			<helpText>Bla Bla Bla</helpText>
+		</ActionCard>
+	</HBox>
+	<stylesheets>
+		<String fx:value="/css/HomeScreen.css" />
+	</stylesheets>
+</VBox>

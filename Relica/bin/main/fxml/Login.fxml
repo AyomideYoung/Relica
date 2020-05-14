@@ -26,7 +26,7 @@
 				width="${rootPane.width}"
 				height="${rootPane.height}">
 		</Rectangle>
-		<VBox id="control-layout" spacing="10"
+		<VBox fx:id="controlLayout" id="control-layout" spacing="10"
 				alignment="TOP_CENTER">
 			<children>
 				<ImageView preserveRatio="true"

@@ -1,0 +1,60 @@
+
+.pane {
+	-fx-background-color: #ffffff;
+}
+
+.dashed-round-loading {
+	-fx-border-style: dashed;
+	-fx-border-width: 3px;
+	-fx-border-radius: 50%;
+	-fx-border-color: orange;
+}
+
+.solid-round-error {
+	-fx-border-style: solid;
+	-fx-border-width: 3px;
+	-fx-border-radius: 50%;
+	-fx-border-color: red;
+}
+
+.solid-round-success {
+	-fx-border-style: solid;
+	-fx-border-width: 3px;
+	-fx-border-radius: 50%;
+	-fx-border-color: #2ec408;
+}
+
+.text-field {
+	-fx-padding: 8px;
+	-fx-background-radius: 20px;
+	-fx-font-size: 14px;
+	-fx-background-color: #212121, white;
+	-fx-background-insets: 0px, 1.5px;
+	
+}
+
+.text-field:focused {
+	-fx-background-color: #87a7ff, #7096ff, #1056ff, white;
+	-fx-background-insets: 0px, 1px, 2px, 3px;
+}
+
+.button {
+	-fx-padding: 4px;
+	-fx-background-color: #f07518;
+	-fx-font-size: 18px;
+	-fx-background-radius: 20px;
+	-fx-font-weight: 200;
+	-fx-text-fill: white;
+}
+
+.button:hover {
+	-fx-background-color: #d8650e;
+}
+
+.label {
+	-fx-font-size: 15px;
+}
+
+.green {
+	-fx-background-color: green;
+}
