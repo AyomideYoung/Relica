@@ -1,0 +1,52 @@
+
+#auction-card {
+	-fx-background-color: #6b069e;
+}
+
+#auction-card .lower-ribbon{
+	-fx-background-color: #52057a;
+}
+
+#trade-card {
+	-fx-background-color: #1701e7;
+}
+
+#trade-card .lower-ribbon{
+	-fx-background-color: #1001a4;
+}
+
+#welcome-header {
+	-fx-font-family: "Keep Calm Med";
+	-fx-font-size: 23pt;
+}
+
+#sub-header {
+	-fx-font-family: "Roboto Light Italic";
+	-fx-font-size: 18pt;
+}
+
+.pane{
+	-fx-background-color: #ffffff;
+}
+
+.action-card {
+	-fx-background-radius: 15px;
+}
+
+.action-card .lower-ribbon{
+	-fx-background-radius: 0 0 15px 15px;
+}
+
+#auction-card:hover{
+	-fx-background-color: derive(#6b069e, -25%);
+}
+
+#trade-card:hover{
+	-fx-background-color: derive(#1701e7, -26%);
+}
+
+.action-card .card-title {
+	-fx-text-fill: white;
+	-fx-font-family: "Roboto Condensed";
+	-fx-font-size: 18px;
+}

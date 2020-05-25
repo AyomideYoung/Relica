@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.TilePane?>
+<?import com.zapsoftco.relica.util.reusable.ItemDisplayCard?>
+<?import javafx.scene.image.Image?>
+<?import javafx.collections.FXCollections?>
+<?import com.zapsoftco.relica.util.reusable.LocationLabel?>
+<?import com.zapsoftco.relica.util.reusable.PriceLabel?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.BorderPane?>
+<VBox styleClass="pane" spacing="3"
+      xmlns:fx="http://javafx.com/fxml/1">
+    <VBox id="header" spacing="15" alignment="CENTER">
+        <ImageView>
+            <image>
+                <Image url="@../images/relica.png"
+                    requestedHeight="50"
+                    preserveRatio="true"/>
+            </image>
+        </ImageView>
+        <BorderPane>
+            <left></left>
+            <center></center>
+            <right></right>
+        </BorderPane>
+    </VBox>
+
+    <TilePane
+            hgap="5"
+            vgap="5"
+            prefTileWidth="150">
+        <ItemDisplayCard>
+            <itemImage>
+                <Image url="@../images/stahlhelm.jpg"
+                       requestedWidth="150"
+                       requestedHeight="100"/>
+            </itemImage>
+            <title>My Relic</title>
+            <sellerName>Zhen Mask</sellerName>
+            <otherInfo>
+                <FXCollections fx:factory="observableArrayList">
+                    <LocationLabel text="Fort Laude, Florida"/>
+                    <PriceLabel text="25.00">
+                        <graphic>
+                            <PriceLabel fx:constant="EURO_ICON"/>
+                        </graphic>
+                    </PriceLabel>
+                </FXCollections>
+            </otherInfo>
+        </ItemDisplayCard>
+    </TilePane>
+</VBox>
+

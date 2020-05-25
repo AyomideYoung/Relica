@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.zapsoftco.relica.util.reusable.*?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import java.lang.String?>
+<VBox styleClass="pane" spacing="3"
+      xmlns:fx="http://javafx.com/fxml/1">
+    <VBox id="header" spacing="15" alignment="CENTER">
+        <ImageView>
+            <Image url="@../images/logo-and-text.png"
+                   requestedHeight="50"
+                   preserveRatio="true"
+                   smooth="true"/>
+        </ImageView>
+        <BorderPane>
+            <left>
+                <HBox alignment="BASELINE_CENTER" spacing="5">
+                    <Label labelFor="$categoryBox" text="Category : "/>
+                    <LabelComboBox fx:id="categoryBox">
+                        <items>
+                            <FXCollections fx:factory="observableArrayList">
+                                <LabelComboBoxData text="War">
+                                    <image>
+
+                                        <Image url="@../images/war-icon.png"
+                                               requestedWidth="32"
+                                               preserveRatio="true"
+                                               smooth="true"/>
+
+                                    </image>
+                                </LabelComboBoxData>
+                                <LabelComboBoxData text="Space">
+                                    <image>
+                                        <Image url="@../images/milky.png"
+                                               requestedWidth="32"
+                                               preserveRatio="true"
+                                               smooth="true"/>
+                                    </image>
+
+
+                                </LabelComboBoxData>
+                                <LabelComboBoxData text="Medieval">
+                                    <image>
+                                        <Image url="@../images/medieval-icon.png"
+                                               requestedWidth="32"
+                                               preserveRatio="true"
+                                               smooth="true"/>
+                                    </image>
+                                </LabelComboBoxData>
+                                <LabelComboBoxData text="Gems &amp; Jewelry">
+                                    <image>
+                                        <Image url="@../images/gem-icon.png"
+                                               requestedWidth="25"
+                                               preserveRatio="true"
+                                               smooth="true"/>
+                                    </image>
+                                </LabelComboBoxData>
+                                <LabelComboBoxData text="Others">
+                                    <image>
+                                        <Image url="@../images/ellipsis.png"
+                                               requestedWidth="32"
+                                               preserveRatio="true"
+                                               smooth="true"/>
+                                    </image>
+                                </LabelComboBoxData>
+                            </FXCollections>
+                        </items>
+                    </LabelComboBox>
+                </HBox>
+
+            </left>
+            <center>
+                <HBox spacing="5" alignment="BASELINE_CENTER">
+                    <Label text="Sort by: " labelFor="$sortBox"/>
+                    <ComboBox fx:id="sortBox">
+                        <items>
+                            <FXCollections fx:factory="observableArrayList">
+                                <String fx:value="Time(New - Old)"/>
+                                <String fx:value="Time(Old - New)"/>
+                                <String fx:value="Title(A - Z)"/>
+                            </FXCollections>
+                        </items>
+                    </ComboBox>
+                </HBox>
+
+            </center>
+            <right>
+                <HBox spacing="5" alignment="BASELINE_CENTER">
+                    <Label labelFor="$searchField" text="Search :"/>
+                    <TextField fx:id="searchField" promptText="Search by title..."/>
+                </HBox>
+
+            </right>
+        </BorderPane>
+    </VBox>
+
+    <TilePane
+            hgap="5"
+            vgap="5"
+            prefTileWidth="150">
+        <Button alignment="CENTER">
+            <graphic><ItemDisplayCard>
+                <itemImage>
+                    <Image url="@../images/stahlhelm.jpg"
+                           requestedWidth="150"
+                           requestedHeight="100"/>
+                </itemImage>
+                <title>My Relic</title>
+                <sellerName>Zhen Mask</sellerName>
+                <otherInfo>
+                    <FXCollections fx:factory="observableArrayList">
+                        <PriceLabel text="25.00">
+                            <graphic>
+                                <PriceLabel fx:constant="EURO_ICON"/>
+                            </graphic>
+                        </PriceLabel>
+                    </FXCollections>
+                </otherInfo>
+            </ItemDisplayCard>
+            </graphic>
+        </Button>
+
+    </TilePane>
+</VBox>
+

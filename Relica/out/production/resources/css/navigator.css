@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+#navigate-back-button {
+	-fx-padding: 3px;
+	-fx-background-color:  white;
+}
+
+#navigate-back-button:hover {
+	-fx-background-color: #cdcdcd;
+}
+
+#navigator-root {
+	-fx-background-color: white;
+	
+}
+
+

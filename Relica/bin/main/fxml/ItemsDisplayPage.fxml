@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.TilePane?>
+<?import com.zapsoftco.relica.util.reusable.ItemDisplayCard?>
+<?import javafx.scene.image.Image?>
+<?import javafx.collections.FXCollections?>
+<?import com.zapsoftco.relica.util.reusable.LocationLabel?>
+<?import com.zapsoftco.relica.util.reusable.PriceLabel?>
+
+<TilePane xmlns:fx="http://javafx.com/fxml/1"
+	hgap="5"
+	vgap="5"
+	prefTileWidth="150">
+	<ItemDisplayCard>
+		<itemImage>
+			<Image url="@../images/stahlhelm.jpg"
+				requestedWidth="150"
+				requestedHeight="100"/>
+		</itemImage>
+		<title>My Relic</title>
+		<sellerName>Zhen Mask</sellerName>
+		<otherInfo>
+			<FXCollections fx:factory="observableArrayList">
+				<LocationLabel text="Fort Laude, Florida"/>
+				<PriceLabel text="25.00">
+					<graphic>
+						<PriceLabel fx:constant="EURO_ICON"/>
+					</graphic>
+				</PriceLabel>
+			</FXCollections>
+		</otherInfo>
+	</ItemDisplayCard>
+</TilePane>
+

@@ -1,0 +1,68 @@
+@charset "ISO-8859-1";
+
+#rootPane {
+	-fx-background-image: url('../images/paris.jpg');
+	-fx-background-repeat: no-repeat;
+}
+
+#overlay{
+	-fx-fill: linear-gradient(to bottom, #00000000 5%, #bababaff 35%);
+}
+
+.default-text-fill {
+	-fx-fill: #363636;
+}
+	
+.default-relica-text-fill {
+	-fx-fill: #ff8f2b;
+}
+
+.default-head-font {
+	-fx-font-size: 44px;
+}
+
+.default-body-font {
+	-fx-font-size: 16px;
+	-fx-font-family: 'sans-serif'
+}
+
+.label{
+	-fx-font-weight: 200;
+}
+
+#usernameInputGroup {
+	-fx-padding: 30px 0px 0px 0px;
+}
+
+.text-input {
+	-fx-padding: 10px;
+	-fx-font-size: 14px;
+	-fx-background-radius: 20px;
+	-fx-prompt-text-fill: #808080;
+}
+
+#button-box{
+	-fx-padding: 10px;
+}
+
+#control-layout {
+	-fx-insets: 15px 0px 0px 0px;
+}
+
+#login-button{
+	-fx-padding: 5px 20px 5px 20px;
+	-fx-font-size: 18px;
+	-fx-background-color: #f07518;
+	-fx-text-fill: white;
+	-fx-margin: 20px;
+	-fx-background-radius: 0
+}
+
+#login-button:hover {
+	-fx-background-color: #d8650e;
+	-fx-cursor: hand;
+}
+
+.hyperlink{
+	-fx-text-fill: #4a4a4a;
+}
