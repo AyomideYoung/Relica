@@ -17,20 +17,26 @@ import com.zapsoftco.relica.util.ResourceManager;
 import com.zapsoftco.relica.util.TtfNameFilter;
 
 import javafx.application.Application;
+import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.layout.Pane;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 
 public class StartUp extends Application {
 	public static Stage stage;
 	private static PaneNavigator defaultPaneNavigator;
+
+	private static final Logger logger = LoggerFactory.getLogger(StartUp.class);
 	
 	@Override
 	public void init() {
 		loadFonts();
+		logger.trace("Completed init execution");
 	}
 	
 	@Override
@@ -41,9 +47,11 @@ public class StartUp extends Application {
 		Scene scene = new Scene(pane, 800, 600);
 		scene.getStylesheets().add("/application.css");
 		defaultPaneNavigator = new PaneNavigator(scene);
-		loadHomeScreen();
+		loadItemsDisplayScreen();
+
 		stage.setScene(scene);
 		stage.show();
+		logger.trace("Primary Stage shown");
 	}
 	
 	public static void main(String[] args) {
@@ -68,6 +76,18 @@ public class StartUp extends Application {
 		HomeScreenController controller = new HomeScreenController();
 		Pane pane = (Pane)controller.showUI();
 		defaultPaneNavigator.setPrimaryPane(pane);
+	}
+	
+	private void loadItemsDisplayScreen() {
+		try {
+			FXMLLoader loader = 
+					new FXMLLoader(ResourceManager.getLocalResource("fxml/ItemsDisplayPage.fxml"));
+			Pane pane = loader.load();
+			defaultPaneNavigator.setPrimaryPane(pane);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
 	}
 	
 	public void setStageTitle(String title) {
@@ -123,7 +143,7 @@ public class StartUp extends Application {
 	public void loadFontFromUrl(URL url) {
 		try(InputStream in = url.openStream()){
 			Font font = Font.loadFont(in, 12);
-			System.out.println("Loaded Font" + " " + font.getName());
+			logger.info("Loaded Font" + " " + font.getName());
 		} catch (IOException e) {}
 	}
 		

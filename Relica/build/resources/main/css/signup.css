@@ -3,6 +3,27 @@
 	-fx-background-color: #ffffff;
 }
 
+.dashed-round-loading {
+	-fx-border-style: dashed;
+	-fx-border-width: 3px;
+	-fx-border-radius: 50%;
+	-fx-border-color: orange;
+}
+
+.solid-round-error {
+	-fx-border-style: solid;
+	-fx-border-width: 3px;
+	-fx-border-radius: 50%;
+	-fx-border-color: red;
+}
+
+.solid-round-success {
+	-fx-border-style: solid;
+	-fx-border-width: 3px;
+	-fx-border-radius: 50%;
+	-fx-border-color: #2ec408;
+}
+
 .text-field {
 	-fx-padding: 8px;
 	-fx-background-radius: 20px;
@@ -32,4 +53,8 @@
 
 .label {
 	-fx-font-size: 15px;
+}
+
+.green {
+	-fx-background-color: green;
 }

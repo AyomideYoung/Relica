@@ -18,7 +18,7 @@
 			<graphic>
 				<ImageView>
 					<image>
-						<Image url="/images/back.png" 
+						<Image url="@../images/back.png"
 								requestedWidth="37"
 								preserveRatio="true"></Image>
 					</image>

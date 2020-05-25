@@ -7,18 +7,17 @@
 <?import javafx.scene.control.Button?>
 <?import java.lang.String?>
 <?import javafx.scene.control.PasswordField?>
-<?import javafx.scene.control.ProgressIndicator?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.image.Image?>
 
 <StackPane xmlns:fx="http://javafx.com/fxml/1"
-		alignment ="CENTER">
+		   fx:controller="com.zapsoftco.relica.controllers.SignupController">
 	<fx:define>
 	<VBox fx:id="usernameForm" 
 			alignment ="CENTER"
 			spacing="5"
 			styleClass="pane">
-		<Label text = "@Your preferred Username"/>
+		<Label text = "Your preferred Username"/>
 		<TextField fx:id = "usernameField"
 				promptText="Username"
 				onKeyTyped="#checkForUsername"
@@ -66,7 +65,7 @@
 					spacing = "5"
 					styleClass="pane">
 				<TextField fx:id="emailAddressField"
-						promptText="Email Adress"
+						promptText="Email Address"
 						maxWidth="300"/>
 				<Button fx:id = "emailSubmitBtn"
 						onAction = "#signup"
@@ -101,13 +100,11 @@
 		</StackPane>
 	</fx:define>
 	<ImageView>
-		<image>
-			<Image fx:id="tickImage" 
-					url="/images/greenTick.png"
-					requestedWidth="40"
-					requestedHeight="40"
-					smooth="true"/>
-		</image>
+		<Image fx:id="tickImage"
+			   url="@../images/greenTick.png"
+			   requestedWidth="40"
+			   requestedHeight="40"
+			   smooth="true"/>
 	</ImageView>
 	<stylesheets>
 		<String fx:value = "/css/signup.css"/>

@@ -32,7 +32,7 @@
 				<ImageView preserveRatio="true"
 						fitWidth="128">
 					<image>
-						<Image url="/images/relica.png"></Image>
+						<Image url="@../images/relica.png"></Image>
 					</image>
 				</ImageView>
 				<TextFlow textAlignment="CENTER" >

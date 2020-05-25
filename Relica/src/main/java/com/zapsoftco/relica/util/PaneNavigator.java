@@ -27,9 +27,9 @@ import javafx.scene.layout.VBox;
  */
 public class PaneNavigator{
 
-	private Map<Pane, ComplementaryActions> complementaryActionsMap = new HashMap<>();
+	private final Map<Pane, ComplementaryActions> complementaryActionsMap = new HashMap<>();
 	private Scene scene;
-	private Deque<Pane> paneQueue = new LinkedList<>();
+	private final Deque<Pane> paneQueue = new LinkedList<>();
 	private Pane paneNavigatorUI;
 
 	@FXML
@@ -53,7 +53,7 @@ public class PaneNavigator{
 	 * {@code ComplimentaryActions} gives a pane the ability to control the
 	 * way the navigator uses it
 	 * 
-	 * All methods must call the {@link Executor.execute()} method or the 
+	 * All methods must call the {@link Execution#execute()} method or the
 	 * navigator will never complete its execution
 	 */
 	public static class ComplementaryActions {
@@ -119,7 +119,7 @@ public class PaneNavigator{
 	 * @param newPane
 	 * the new parent pane
 	 * @param complementaryActions
-	 * the {@link PanePostProcessor} to call when backwards navigation
+	 * the {@link ComplementaryActions} to call when backwards navigation
 	 * leads to {@code newPane}
 	 * 
 	 */
@@ -147,7 +147,7 @@ public class PaneNavigator{
 
 
 	/**
-	 * Adds the new pane as the subpane of the currently displayed pane
+	 * Adds the new pane as the sub pane of the currently displayed pane
 	 * 
 	 * @param newPane
 	 * the pane to be added as subpane
@@ -164,8 +164,8 @@ public class PaneNavigator{
 	 * 
 	 * @param newPane
 	 * the pane to be added as subpane
-	 * @param postProcessor
-	 * the postProcessor to call when backwards navigation leads to newPane
+	 * @param actionsForNewPane
+	 * the {@code ComplementaryActions} to call when backwards navigation leads to newPane
 	 * @throws NoParentPaneException
 	 * if there is no set parent pane
 	 */
@@ -205,7 +205,7 @@ public class PaneNavigator{
 		ComplementaryActions actionsForFirstPane;
 		ComplementaryActions actionsForCurrentPane;
 		Pane firstPane;
-		ShowFirstParentPaneExecution execution = new ShowFirstParentPaneExecution();
+		ShowPrimaryPaneExecution execution = new ShowPrimaryPaneExecution();
 
 		actionsForCurrentPane = removeCurrentPaneFromPaneQueueAndGetItsActions();
 		
@@ -273,7 +273,7 @@ public class PaneNavigator{
 	}
 	
 	public boolean hasParentPane() {
-		return paneQueue.size() > 0 ? true : false; 
+		 return paneQueue.size() > 0;
 	}
 	
 	private class InitializeAndDisplaySubPaneExecution implements Execution {
@@ -299,7 +299,7 @@ public class PaneNavigator{
 		}
 	}
 	
-	private class ShowFirstParentPaneExecution implements Execution {
+	private static class ShowPrimaryPaneExecution implements Execution {
 
 		public Scene scene;
 		public Pane firstPane;
