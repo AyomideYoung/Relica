@@ -8,9 +8,10 @@
 <?import javafx.geometry.Rectangle2D?>
 <?import javafx.scene.layout.HBox?>
 
+<?import javafx.scene.layout.Pane?>
 <fx:root fx:id="root" xmlns:fx="http://javafx.com/fxml/1"
-	type="VBox" alignment="CENTER">
-	<StackPane alignment="CENTER" width="${root.width}">
+		 type="VBox" alignment="CENTER">
+	<StackPane alignment="CENTER">
 		<ImageView fx:id="itemImageView" />
 		<Rectangle fx:id="overlay"/>
 	</StackPane>

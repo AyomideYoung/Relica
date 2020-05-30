@@ -10,8 +10,7 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.image.Image?>
 
-<StackPane xmlns:fx="http://javafx.com/fxml/1"
-		   fx:controller="com.zapsoftco.relica.controllers.SignupController">
+<StackPane xmlns:fx="http://javafx.com/fxml/1">
 	<fx:define>
 	<VBox fx:id="usernameForm" 
 			alignment ="CENTER"

@@ -37,6 +37,7 @@ public class LabelComboBox extends ComboBox<LabelComboBoxData> {
                         if (item == null || empty) {
                             setGraphic(null);
                         } else {
+                            label.getStyleClass().add("combo-data-label");
                             label.setText(item.getText());
                             label.setGraphic(createImageView(item.getImage()));
                             label.setContentDisplay(ContentDisplay.LEFT);

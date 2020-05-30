@@ -6,20 +6,22 @@
 <?import javafx.scene.image.*?>
 <?import javafx.scene.layout.*?>
 <?import java.lang.String?>
-<VBox styleClass="pane" spacing="3"
-      xmlns:fx="http://javafx.com/fxml/1">
-    <VBox id="header" spacing="15" alignment="CENTER">
+
+<VBox fx:id="rootPane" styleClass="pane" spacing="3"
+      xmlns:fx="http://javafx.com/fxml/1" alignment="TOP_CENTER">
+    <VBox id="header" styleClass="header" spacing="15" alignment="CENTER">
         <ImageView>
             <Image url="@../images/logo-and-text.png"
                    requestedHeight="50"
                    preserveRatio="true"
                    smooth="true"/>
         </ImageView>
-        <BorderPane>
+        <BorderPane maxWidth="950" minWidth="700">
             <left>
-                <HBox alignment="BASELINE_CENTER" spacing="5">
+                <HBox alignment="CENTER" spacing="5">
+                    <BorderPane.alignment>CENTER</BorderPane.alignment>
                     <Label labelFor="$categoryBox" text="Category : "/>
-                    <LabelComboBox fx:id="categoryBox">
+                    <LabelComboBox fx:id="categoryBox" onAction="#refreshItemsListWithNewConstraints">
                         <items>
                             <FXCollections fx:factory="observableArrayList">
                                 <LabelComboBoxData text="War">
@@ -74,8 +76,9 @@
             </left>
             <center>
                 <HBox spacing="5" alignment="BASELINE_CENTER">
+                    <BorderPane.alignment>CENTER</BorderPane.alignment>
                     <Label text="Sort by: " labelFor="$sortBox"/>
-                    <ComboBox fx:id="sortBox">
+                    <ComboBox fx:id="sortBox" onAction="#refreshItemsListWithNewConstraints">
                         <items>
                             <FXCollections fx:factory="observableArrayList">
                                 <String fx:value="Time(New - Old)"/>
@@ -89,40 +92,75 @@
             </center>
             <right>
                 <HBox spacing="5" alignment="BASELINE_CENTER">
+                    <BorderPane.alignment>CENTER</BorderPane.alignment>
                     <Label labelFor="$searchField" text="Search :"/>
-                    <TextField fx:id="searchField" promptText="Search by title..."/>
+                    <TextField fx:id="searchField" id="search-field"
+                               onAction="#searchForItemUsingConstraints"
+                               prefColumnCount="9"
+                               promptText="Search by title..."/>
+                    <Button id="search-button" onAction="#searchForItemUsingConstraints">Search</Button>
                 </HBox>
 
             </right>
         </BorderPane>
     </VBox>
 
-    <TilePane
-            hgap="5"
-            vgap="5"
-            prefTileWidth="150">
-        <Button alignment="CENTER">
-            <graphic><ItemDisplayCard>
-                <itemImage>
-                    <Image url="@../images/stahlhelm.jpg"
-                           requestedWidth="150"
-                           requestedHeight="100"/>
-                </itemImage>
-                <title>My Relic</title>
-                <sellerName>Zhen Mask</sellerName>
-                <otherInfo>
-                    <FXCollections fx:factory="observableArrayList">
-                        <PriceLabel text="25.00">
-                            <graphic>
-                                <PriceLabel fx:constant="EURO_ICON"/>
-                            </graphic>
-                        </PriceLabel>
-                    </FXCollections>
-                </otherInfo>
-            </ItemDisplayCard>
-            </graphic>
-        </Button>
+    <Separator/>
+    <ScrollPane hbarPolicy="NEVER">
+        <VBox.vgrow>ALWAYS</VBox.vgrow>
+        <FlowPane fx:id="itemsListContainer" hgap="5"
+                  vgap="5"
+                  prefWrapLength="${rootPane.width}">
+            <Button alignment="CENTER" styleClass="item-card-wrapper">
+                <graphic>
+                    <ItemDisplayCard>
+                        <itemImage>
+                            <Image url="@../images/stahlhelm.jpg"/>
+                        </itemImage>
+                        <title>My Relic</title>
+                        <sellerName>Zhen Mask</sellerName>
+                        <otherInfo>
+                            <FXCollections fx:factory="observableArrayList">
+                                <PriceLabel text="25.00">
+                                    <graphic>
+                                        <IconFactory fx:factory="createIcon">
+                                            <PriceLabel fx:constant="NAIRA_CHARACTER"/>
+                                        </IconFactory>
+                                    </graphic>
+                                </PriceLabel>
+                            </FXCollections>
+                        </otherInfo>
+                    </ItemDisplayCard>
+                </graphic>
+            </Button>
+            <Button alignment="CENTER" styleClass="item-card-wrapper">
+                <graphic>
+                    <ItemDisplayCard>
+                        <itemImage>
+                            <Image url="@../images/stahlhelm.jpg"/>
+                        </itemImage>
+                        <title>My Relic</title>
+                        <sellerName>Zhen Mask</sellerName>
+                        <otherInfo>
+                            <FXCollections fx:factory="observableArrayList">
+                                <PriceLabel text="25.00">
+                                    <graphic>
+                                        <IconFactory fx:factory="createIcon">
+                                            <PriceLabel fx:constant="YEN_CHARACTER"/>
+                                        </IconFactory>
+                                    </graphic>
+                                </PriceLabel>
+                            </FXCollections>
+                        </otherInfo>
+                    </ItemDisplayCard>
+                </graphic>
+            </Button>
 
-    </TilePane>
+        </FlowPane>
+    </ScrollPane>
+
+    <stylesheets>
+        <String fx:value="/css/item-display.css"/>
+    </stylesheets>
 </VBox>
 

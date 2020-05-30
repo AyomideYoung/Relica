@@ -9,6 +9,7 @@ import java.net.URISyntaxException;
 import java.net.URL;
 
 import com.zapsoftco.relica.controllers.HomeScreenController;
+import com.zapsoftco.relica.controllers.ItemsDisplayPageController;
 import com.zapsoftco.relica.controllers.LoginController;
 import com.zapsoftco.relica.controllers.SignupController;
 import com.zapsoftco.relica.util.PaneNavigator;
@@ -79,14 +80,9 @@ public class StartUp extends Application {
 	}
 	
 	private void loadItemsDisplayScreen() {
-		try {
-			FXMLLoader loader = 
-					new FXMLLoader(ResourceManager.getLocalResource("fxml/ItemsDisplayPage.fxml"));
-			Pane pane = loader.load();
-			defaultPaneNavigator.setPrimaryPane(pane);
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
+		ItemsDisplayPageController controller = new ItemsDisplayPageController();
+		Pane pane = (Pane) controller.showUI();
+		defaultPaneNavigator.setPrimaryPane(pane);
 
 	}
 	

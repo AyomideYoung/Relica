@@ -1,0 +1,83 @@
+.header {
+    -fx-background-color: linear-gradient(to right, #f1f1f1 0%, white 10%, white 90%, #f1f1f1 100%);
+}
+
+.combo-box {
+    -fx-background-color:  #f08300, white;
+    -fx-background-insets: 0px, 1px;
+
+}
+
+.combo-data-label {
+    -fx-font-size: 1.2em;
+    -fx-text-fill: #000000;
+    -fx-font-family: "Roboto Regular";
+}
+
+.pane{
+    -fx-background-color: #ffffff;
+}
+
+.scroll-pane {
+    -fx-background: #ffffff;
+    -fx-border-color: white;
+}
+
+.text-field{
+    -fx-padding: 5px;
+    -fx-background-color: #f08300, white;
+    -fx-background-insets: 0px, 1px;
+}
+
+.text-field:focused {
+    -fx-background-color: #f08300, #d37300, white;
+    -fx-background-insets: 0px, 0.7px, 1.2px;
+}
+
+.text-field:hover {
+    -fx-background-color: #f08300, #d37300, white;
+    -fx-background-insets: 0px, 0.7px, 1.2px;
+}
+
+.item-card-wrapper:hover{
+    -fx-background-color:#cacaca, #f8f8f8;
+    -fx-background-insets: 0px, 1px;
+}
+
+.item-card-wrapper{
+    -fx-background-color: #cacaca, #ffffff;
+    -fx-background-insets: 0px, 1px;
+    -fx-effect: dropshadow(two-pass-box, #d7d7d7, 7, 0, 2, 2);
+}
+
+.item-card-wrapper:hover *{
+    -fx-background-color: #f8f8f8;
+}
+
+.header .label {
+    -fx-font-size: 1.2em;
+}
+
+.combo-box .list-cell {
+    -fx-font-size: 1.2em;
+    -fx-text-fill: #232323;
+    -fx-font-family: "Roboto Regular"
+}
+
+#search-field {
+    -fx-font-size: 1.13em;
+    -fx-text-fill: #4a4a4a;
+}
+
+#search-button {
+    -fx-background-color: #f07518;
+    -fx-text-fill: white;
+    -fx-font-size: 1.16em;
+    -fx-padding: 4px 10px 4px 10px;
+    -fx-font-weight: 300;
+
+}
+
+#search-button:hover {
+    -fx-background-color: #d8650e;
+}

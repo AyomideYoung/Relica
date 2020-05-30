@@ -18,6 +18,7 @@ import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
+import javafx.geometry.Rectangle2D;
 import javafx.scene.Node;
 import javafx.scene.control.ContentDisplay;
 import javafx.scene.control.Label;
@@ -104,9 +105,17 @@ public class ItemDisplayCard extends VBox implements Initializable{
 
 	@Override
 	public void initialize(URL location, ResourceBundle resources) {
+
 		bindPropertiesToNodes();
 		addStyleClassesToNodes();
 		styleSomeNodesInCode();
+		configureItemImageView();
+	}
+
+	private void configureItemImageView() {
+		itemImageView.setFitWidth(150);
+		itemImageView.setFitHeight(100);
+		itemImageView.setSmooth(true);
 	}
 
 	private void styleSomeNodesInCode() {
@@ -173,8 +182,8 @@ public class ItemDisplayCard extends VBox implements Initializable{
 		if(itemImageView.getImage() == null && itemImage.get() == null)
 			return;
 		
-		DoubleProperty width = new SimpleDoubleProperty(itemImageView.getImage().getWidth());
-		DoubleProperty height = new SimpleDoubleProperty(itemImageView.getImage().getHeight());
+		DoubleProperty width = new SimpleDoubleProperty(itemImageView.getLayoutBounds().getWidth());
+		DoubleProperty height = new SimpleDoubleProperty(itemImageView.getLayoutBounds().getHeight());
 	
 		overlay.widthProperty().bind(width);
 		overlay.heightProperty().bind(height);
