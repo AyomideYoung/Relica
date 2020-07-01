@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<VBox xmlns="http://javafx.com/javafx"
+      alignment="CENTER"
+      fillWidth="false"
+      spacing="6"
+      xmlns:fx="http://javafx.com/fxml"
+      styleClass="pane">
+    <Label text="Phone Number"></Label>
+    <HBox spacing="5"
+            fx:id="phoneNumberInputContainer"
+            id="phone-number-input-container">
+        <Label text="+"/>
+        <TextField fx:id="phoneNumberField"
+                   prefColumnCount="25"
+                     promptText="Hi....."
+                    />
+    </HBox>
+    <Button fx:id="submitBtn"
+            text="Submit"
+            prefWidth="${phoneNumberInputContainer.width}"/>
+
+
+    <stylesheets>
+        <String fx:value="/css/seller-registration.css"/>
+    </stylesheets>
+</VBox>

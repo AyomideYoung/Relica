@@ -16,7 +16,7 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 import java.net.URL;
 
-public class ItemsDisplayPageController implements Controller{
+public class ItemsDisplayPageController{
 
     @FXML
     private LabelComboBox categoryBox;
@@ -32,19 +32,6 @@ public class ItemsDisplayPageController implements Controller{
 
     private Logger logger = LoggerFactory.getLogger(ItemsDisplayPageController.class);
 
-    @Override
-    public Parent showUI() {
-        try {
-            URL fxmlUrl = ResourceManager.getLocalResource("fxml/ItemsDisplayPage.fxml");
-            FXMLLoader loader = new FXMLLoader(fxmlUrl);
-
-            loader.setController(this);
-            return loader.load();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        return new Pane();
-    }
 
     public void refreshItemsListWithNewConstraints(){
 

@@ -5425,3 +5425,1708 @@
 2020-05-30 08:36:40,212 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
 2020-05-30 08:36:40,213 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
 2020-05-30 08:36:41,710 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 15:59:33,422 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 15:59:33,440 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 15:59:33,447 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 15:59:33,460 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 15:59:33,467 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 15:59:33,474 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 15:59:33,481 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 15:59:33,488 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 15:59:33,494 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 15:59:33,501 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 15:59:33,510 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 15:59:33,518 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 15:59:33,525 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 15:59:33,532 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 15:59:33,538 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 15:59:33,546 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 15:59:33,552 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 15:59:33,553 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 15:59:34,960 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:00:29,552 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:00:29,568 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:00:29,573 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:00:29,579 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:00:29,586 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:00:29,592 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:00:29,598 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:00:29,604 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:00:29,611 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:00:29,618 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:00:29,624 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:00:29,629 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:00:29,635 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:00:29,641 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:00:29,647 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:00:29,653 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:00:29,659 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:00:29,660 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:00:30,446 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:02:03,234 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:02:03,258 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:02:03,264 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:02:03,270 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:02:03,277 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:02:03,284 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:02:03,289 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:02:03,296 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:02:03,302 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:02:03,308 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:02:03,314 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:02:03,320 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:02:03,326 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:02:03,333 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:02:03,338 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:02:03,346 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:02:03,352 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:02:03,352 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:02:04,159 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:02:47,689 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:02:47,707 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:02:47,713 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:02:47,719 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:02:47,724 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:02:47,730 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:02:47,738 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:02:47,744 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:02:47,750 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:02:47,755 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:02:47,760 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:02:47,767 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:02:47,773 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:02:47,780 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:02:47,786 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:02:47,791 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:02:47,796 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:02:47,796 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:02:48,627 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:03:18,528 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:03:18,568 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:03:18,584 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:03:18,601 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:03:18,613 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:03:18,625 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:03:18,640 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:03:18,652 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:03:18,669 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:03:18,681 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:03:18,694 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:03:18,707 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:03:18,719 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:03:18,734 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:03:18,748 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:03:18,764 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:03:18,781 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:03:18,781 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:03:19,684 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:04:04,384 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:04:04,403 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:04:04,410 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:04:04,423 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:04:04,430 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:04:04,436 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:04:04,444 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:04:04,453 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:04:04,461 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:04:04,467 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:04:04,474 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:04:04,482 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:04:04,490 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:04:04,497 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:04:04,503 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:04:04,511 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:04:04,518 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:04:04,519 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:04:05,415 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:06:22,894 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:06:22,916 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:06:22,921 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:06:22,927 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:06:22,934 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:06:22,939 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:06:22,945 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:06:22,952 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:06:22,957 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:06:22,962 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:06:22,967 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:06:22,972 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:06:22,979 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:06:22,985 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:06:22,991 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:06:22,996 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:06:23,003 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:06:23,005 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:06:23,830 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:06:49,521 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:06:49,542 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:06:49,551 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:06:49,559 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:06:49,566 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:06:49,574 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:06:49,581 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:06:49,589 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:06:49,595 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:06:49,601 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:06:49,608 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:06:49,615 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:06:49,624 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:06:49,631 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:06:49,639 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:06:49,646 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:06:49,653 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:06:49,654 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:06:50,537 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:09:47,614 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:09:47,630 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:09:47,635 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:09:47,649 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:09:47,655 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:09:47,661 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:09:47,669 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:09:47,677 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:09:47,683 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:09:47,689 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:09:47,695 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:09:47,701 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:09:47,707 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:09:47,714 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:09:47,720 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:09:47,725 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:09:47,731 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:09:47,731 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:09:48,596 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:10:27,132 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:10:27,152 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:10:27,159 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:10:27,165 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:10:27,172 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:10:27,179 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:10:27,186 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:10:27,194 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:10:27,201 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:10:27,208 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:10:27,215 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:10:27,222 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:10:27,228 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:10:27,235 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:10:27,243 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:10:27,251 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:10:27,257 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:10:27,257 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:10:28,133 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:11:05,915 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:11:05,930 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:11:05,935 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:11:05,940 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:11:05,946 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:11:05,951 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:11:05,957 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:11:05,963 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:11:05,968 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:11:05,973 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:11:05,980 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:11:05,986 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:11:05,992 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:11:05,997 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:11:06,002 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:11:06,007 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:11:06,014 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:11:06,014 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:11:06,956 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:12:34,669 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:12:34,685 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:12:34,691 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:12:34,696 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:12:34,701 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:12:34,706 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:12:34,712 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:12:34,719 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:12:34,725 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:12:34,730 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:12:34,736 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:12:34,743 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:12:34,748 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:12:34,756 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:12:34,761 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:12:34,767 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:12:34,772 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:12:34,772 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:12:35,548 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:13:02,490 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:13:02,511 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:13:02,523 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:13:02,530 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:13:02,538 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:13:02,545 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:13:02,552 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:13:02,559 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:13:02,565 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:13:02,573 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:13:02,579 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:13:02,585 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:13:02,593 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:13:02,600 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:13:02,608 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:13:02,614 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:13:02,621 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:13:02,622 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:13:03,425 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:13:48,077 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:13:48,104 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:13:48,112 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:13:48,119 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:13:48,125 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:13:48,132 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:13:48,141 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:13:48,147 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:13:48,155 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:13:48,161 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:13:48,169 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:13:48,178 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:13:48,185 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:13:48,192 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:13:48,199 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:13:48,206 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:13:48,213 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:13:48,213 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:13:49,066 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:14:35,906 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:14:35,924 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:14:35,930 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:14:35,939 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:14:35,947 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:14:35,954 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:14:35,960 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:14:35,967 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:14:35,973 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:14:35,979 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:14:35,984 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:14:35,989 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:14:35,995 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:14:36,000 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:14:36,006 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:14:36,013 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:14:36,018 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:14:36,018 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:14:36,947 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:15:02,072 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:15:02,098 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:15:02,105 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:15:02,113 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:15:02,119 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:15:02,126 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:15:02,136 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:15:02,142 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:15:02,151 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:15:02,158 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:15:02,168 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:15:02,175 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:15:02,183 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:15:02,190 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:15:02,198 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:15:02,205 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:15:02,212 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:15:02,212 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:15:03,040 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:16:05,074 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:16:05,094 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:16:05,106 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:16:05,113 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:16:05,120 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:16:05,127 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:16:05,134 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:16:05,140 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:16:05,147 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:16:05,154 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:16:05,160 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:16:05,167 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:16:05,173 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:16:05,181 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:16:05,187 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:16:05,193 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:16:05,199 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:16:05,200 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:16:05,989 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:19:28,813 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:19:28,831 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:19:28,839 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:19:28,852 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:19:28,858 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:19:28,864 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:19:28,870 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:19:28,875 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:19:28,883 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:19:28,888 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:19:28,893 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:19:28,899 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:19:28,904 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:19:28,910 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:19:28,916 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:19:28,922 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:19:28,927 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:19:28,927 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:19:29,660 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:22:39,641 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:22:39,661 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:22:39,666 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:22:39,671 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:22:39,676 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:22:39,682 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:22:39,687 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:22:39,694 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:22:39,699 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:22:39,705 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:22:39,710 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:22:39,716 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:22:39,721 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:22:39,727 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:22:39,733 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:22:39,739 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:22:39,744 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:22:39,744 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:22:40,604 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:23:16,734 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:23:16,757 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:23:16,764 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:23:16,771 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:23:16,778 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:23:16,784 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:23:16,792 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:23:16,798 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:23:16,805 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:23:16,812 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:23:16,821 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:23:16,829 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:23:16,835 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:23:16,842 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:23:16,848 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:23:16,856 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:23:16,863 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:23:16,863 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:23:17,701 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:23:41,707 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:23:41,726 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:23:41,734 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:23:41,740 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:23:41,746 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:23:41,752 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:23:41,760 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:23:41,768 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:23:41,775 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:23:41,782 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:23:41,788 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:23:41,796 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:23:41,801 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:23:41,808 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:23:41,814 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:23:41,820 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:23:41,827 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:23:41,827 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:23:42,566 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:25:51,417 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:25:51,442 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:25:51,449 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:25:51,456 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:25:51,463 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:25:51,469 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:25:51,477 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:25:51,484 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:25:51,490 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:25:51,498 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:25:51,505 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:25:51,511 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:25:51,519 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:25:51,527 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:25:51,535 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:25:51,542 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:25:51,549 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:25:51,549 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:25:52,301 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:26:31,895 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:26:31,912 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:26:31,917 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:26:31,931 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:26:31,936 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:26:31,941 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:26:31,947 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:26:31,952 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:26:31,959 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:26:31,966 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:26:31,974 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:26:31,980 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:26:31,987 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:26:31,994 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:26:32,000 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:26:32,007 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:26:32,015 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:26:32,015 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:26:32,870 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:27:22,456 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:27:22,474 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:27:22,479 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:27:22,484 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:27:22,490 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:27:22,496 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:27:22,501 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:27:22,506 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:27:22,513 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:27:22,519 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:27:22,525 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:27:22,531 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:27:22,537 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:27:22,545 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:27:22,552 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:27:22,558 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:27:22,565 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:27:22,565 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:27:23,432 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 16:31:55,559 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 16:31:55,578 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 16:31:55,584 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 16:31:55,590 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 16:31:55,596 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 16:31:55,603 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 16:31:55,609 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 16:31:55,616 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 16:31:55,623 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 16:31:55,630 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 16:31:55,639 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 16:31:55,646 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 16:31:55,652 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 16:31:55,659 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 16:31:55,665 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 16:31:55,673 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 16:31:55,679 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 16:31:55,679 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 16:31:56,642 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 18:02:32,980 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 18:02:33,000 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 18:02:33,007 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 18:02:33,014 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 18:02:33,021 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 18:02:33,027 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 18:02:33,033 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 18:02:33,038 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 18:02:33,047 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 18:02:33,054 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 18:02:33,060 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 18:02:33,065 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 18:02:33,071 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 18:02:33,077 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 18:02:33,083 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 18:02:33,089 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 18:02:33,095 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 18:02:33,095 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 18:02:34,044 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 18:05:26,840 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 18:05:26,860 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 18:05:26,867 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 18:05:26,875 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 18:05:26,885 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 18:05:26,891 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 18:05:26,899 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 18:05:26,906 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 18:05:26,912 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 18:05:26,916 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 18:05:26,922 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 18:05:26,929 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 18:05:26,934 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 18:05:26,940 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 18:05:26,945 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 18:05:26,950 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 18:05:26,955 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 18:05:26,955 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 18:05:27,784 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-30 18:07:20,596 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-30 18:07:20,620 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-30 18:07:20,627 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-30 18:07:20,636 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-30 18:07:20,644 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-30 18:07:20,653 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-30 18:07:20,661 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-30 18:07:20,669 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-30 18:07:20,676 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-30 18:07:20,683 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-30 18:07:20,691 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-30 18:07:20,697 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-30 18:07:20,703 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-30 18:07:20,711 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-30 18:07:20,718 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-30 18:07:20,726 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-30 18:07:20,732 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-30 18:07:20,733 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-30 18:07:21,658 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-31 08:49:05,409 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-31 08:49:05,430 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-31 08:49:05,438 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-31 08:49:05,444 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-31 08:49:05,450 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-31 08:49:05,456 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-31 08:49:05,463 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-31 08:49:05,471 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-31 08:49:05,477 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-31 08:49:05,483 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-31 08:49:05,490 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-31 08:49:05,496 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-31 08:49:05,506 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-31 08:49:05,514 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-31 08:49:05,521 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-31 08:49:05,527 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-31 08:49:05,535 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-31 08:49:05,536 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-31 08:49:06,639 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-31 08:49:09,430 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:49:13,104 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:49:15,621 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:49:15,985 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:49:27,674 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:49:28,140 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:49:28,526 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:49:28,878 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:54:12,513 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-31 08:54:12,533 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-31 08:54:12,539 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-31 08:54:12,547 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-31 08:54:12,554 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-31 08:54:12,560 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-31 08:54:12,566 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-31 08:54:12,572 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-31 08:54:12,578 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-31 08:54:12,585 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-31 08:54:12,591 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-31 08:54:12,597 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-31 08:54:12,604 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-31 08:54:12,609 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-31 08:54:12,617 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-31 08:54:12,627 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-31 08:54:12,633 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-31 08:54:12,634 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-31 08:54:13,525 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-31 08:54:15,346 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:54:17,234 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:55:05,624 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-31 08:55:05,642 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-31 08:55:05,647 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-31 08:55:05,652 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-31 08:55:05,657 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-31 08:55:05,663 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-31 08:55:05,670 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-31 08:55:05,676 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-31 08:55:05,681 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-31 08:55:05,687 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-31 08:55:05,692 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-31 08:55:05,699 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-31 08:55:05,703 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-31 08:55:05,710 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-31 08:55:05,715 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-31 08:55:05,721 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-31 08:55:05,727 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-31 08:55:05,727 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-31 08:55:06,538 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-31 08:55:08,248 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:55:23,438 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:55:23,678 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:55:23,932 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:55:49,999 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-31 08:55:50,015 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-31 08:55:50,022 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-31 08:55:50,027 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-31 08:55:50,033 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-31 08:55:50,039 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-31 08:55:50,044 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-31 08:55:50,050 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-31 08:55:50,057 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-31 08:55:50,063 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-31 08:55:50,068 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-31 08:55:50,074 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-31 08:55:50,081 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-31 08:55:50,088 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-31 08:55:50,097 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-31 08:55:50,105 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-31 08:55:50,112 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-31 08:55:50,113 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-31 08:55:50,936 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-31 08:55:52,211 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:55:52,720 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:55:53,157 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:57:15,244 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:57:24,781 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-31 08:57:24,801 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-31 08:57:24,808 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-31 08:57:24,815 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-31 08:57:24,822 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-31 08:57:24,830 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-31 08:57:24,837 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-31 08:57:24,844 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-31 08:57:24,851 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-31 08:57:24,863 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-31 08:57:24,870 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-31 08:57:24,876 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-31 08:57:24,884 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-31 08:57:24,891 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-31 08:57:24,900 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-31 08:57:24,907 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-31 08:57:24,913 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-31 08:57:24,914 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-31 08:57:25,807 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-31 08:57:28,019 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:57:37,271 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:58:19,662 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-31 08:58:19,675 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-31 08:58:19,681 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-31 08:58:19,693 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-31 08:58:19,699 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-31 08:58:19,705 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-31 08:58:19,711 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-31 08:58:19,717 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-31 08:58:19,723 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-31 08:58:19,728 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-31 08:58:19,734 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-31 08:58:19,740 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-31 08:58:19,748 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-31 08:58:19,755 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-31 08:58:19,763 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-31 08:58:19,769 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-31 08:58:19,775 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-31 08:58:19,776 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-31 08:58:20,815 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-31 08:58:22,147 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:58:29,463 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 08:58:29,750 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-05-31 09:00:57,254 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-31 09:00:57,271 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-31 09:00:57,278 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-31 09:00:57,284 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-31 09:00:57,290 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-31 09:00:57,296 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-31 09:00:57,303 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-31 09:00:57,309 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-31 09:00:57,315 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-31 09:00:57,320 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-31 09:00:57,327 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-31 09:00:57,333 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-31 09:00:57,339 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-31 09:00:57,346 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-31 09:00:57,352 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-31 09:00:57,357 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-31 09:00:57,363 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-31 09:00:57,363 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-31 09:00:58,299 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-31 09:01:01,591 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-05-31 09:01:03,392 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-05-31 09:01:58,962 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-31 09:01:58,978 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-31 09:01:58,991 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-31 09:01:58,997 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-31 09:01:59,004 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-31 09:01:59,012 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-31 09:01:59,020 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-31 09:01:59,027 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-31 09:01:59,034 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-31 09:01:59,041 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-31 09:01:59,049 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-31 09:01:59,055 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-31 09:01:59,061 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-31 09:01:59,068 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-31 09:01:59,074 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-31 09:01:59,082 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-31 09:01:59,088 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-31 09:01:59,089 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-31 09:01:59,938 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-31 09:02:02,841 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-05-31 09:02:09,659 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-05-31 09:02:41,747 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-31 09:02:41,763 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-31 09:02:41,769 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-31 09:02:41,775 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-31 09:02:41,788 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-31 09:02:41,795 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-31 09:02:41,802 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-31 09:02:41,809 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-31 09:02:41,817 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-31 09:02:41,825 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-31 09:02:41,832 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-31 09:02:41,840 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-31 09:02:41,847 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-31 09:02:41,855 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-31 09:02:41,861 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-31 09:02:41,868 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-31 09:02:41,875 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-31 09:02:41,875 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-31 09:02:42,661 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-31 09:02:44,532 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-05-31 09:04:07,951 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-05-31 09:04:07,969 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-05-31 09:04:07,975 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-05-31 09:04:07,981 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-05-31 09:04:07,988 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-05-31 09:04:07,996 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-05-31 09:04:08,003 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-05-31 09:04:08,009 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-05-31 09:04:08,016 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-05-31 09:04:08,022 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-05-31 09:04:08,028 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-05-31 09:04:08,033 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-05-31 09:04:08,039 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-05-31 09:04:08,045 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-05-31 09:04:08,050 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-05-31 09:04:08,058 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-05-31 09:04:08,064 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-05-31 09:04:08,065 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-05-31 09:04:08,978 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-05-31 09:04:11,549 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numbert
+2020-06-02 17:50:31,363 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-02 17:50:31,380 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-02 17:50:31,387 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-02 17:50:31,393 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-02 17:50:31,399 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-02 17:50:31,406 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-02 17:50:31,413 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-02 17:50:31,419 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-02 17:50:31,426 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-02 17:50:31,433 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-02 17:50:31,439 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-02 17:50:31,446 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-02 17:50:31,452 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-02 17:50:31,459 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-02 17:50:31,465 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-02 17:50:31,472 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-02 17:50:31,478 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-02 17:50:31,478 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-02 17:50:32,332 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-02 17:50:37,488 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-06-02 17:50:37,935 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-06-08 17:59:35,286 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 17:59:35,305 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 17:59:35,310 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 17:59:35,317 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 17:59:35,324 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 17:59:35,331 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 17:59:35,338 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 17:59:35,345 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 17:59:35,352 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 17:59:35,361 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 17:59:35,367 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 17:59:35,378 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 17:59:35,385 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 17:59:35,392 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 17:59:35,400 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 17:59:35,408 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 17:59:35,415 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 17:59:35,415 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 17:59:36,283 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 17:59:40,500 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberg
+2020-06-08 18:00:15,003 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 18:00:15,019 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 18:00:15,027 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 18:00:15,046 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 18:00:15,054 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 18:00:15,060 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 18:00:15,070 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 18:00:15,088 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 18:00:15,100 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 18:00:15,109 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 18:00:15,118 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 18:00:15,129 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 18:00:15,137 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 18:00:15,146 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 18:00:15,151 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 18:00:15,156 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 18:00:15,161 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 18:00:15,162 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 18:00:15,905 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 18:00:19,549 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-06-08 18:00:25,323 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberf
+2020-06-08 18:00:54,184 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 18:00:54,198 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 18:00:54,204 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 18:00:54,210 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 18:00:54,215 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 18:00:54,220 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 18:00:54,225 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 18:00:54,231 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 18:00:54,236 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 18:00:54,242 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 18:00:54,249 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 18:00:54,255 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 18:00:54,261 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 18:00:54,267 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 18:00:54,273 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 18:00:54,278 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 18:00:54,283 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 18:00:54,284 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 18:00:55,014 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 18:00:56,555 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberg
+2020-06-08 18:15:49,839 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 18:15:49,853 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 18:15:49,858 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 18:15:49,864 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 18:15:49,869 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 18:15:49,875 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 18:15:49,880 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 18:15:49,886 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 18:15:49,892 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 18:15:49,897 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 18:15:49,903 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 18:15:49,908 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 18:15:49,913 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 18:15:49,918 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 18:15:49,924 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 18:15:49,929 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 18:15:49,935 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 18:15:49,935 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 18:15:50,736 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 18:15:52,509 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-06-08 18:16:54,378 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 18:16:54,398 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 18:16:54,404 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 18:16:54,410 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 18:16:54,416 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 18:16:54,421 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 18:16:54,427 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 18:16:54,433 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 18:16:54,438 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 18:16:54,444 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 18:16:54,449 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 18:16:54,455 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 18:16:54,461 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 18:16:54,467 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 18:16:54,472 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 18:16:54,478 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 18:16:54,487 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 18:16:54,487 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 18:16:55,172 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 18:16:57,149 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-06-08 18:17:18,887 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 18:17:18,906 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 18:17:18,914 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 18:17:18,921 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 18:17:18,930 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 18:17:18,938 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 18:17:18,945 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 18:17:18,952 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 18:17:18,959 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 18:17:18,966 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 18:17:18,973 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 18:17:18,983 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 18:17:18,991 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 18:17:18,998 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 18:17:19,005 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 18:17:19,012 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 18:17:19,018 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 18:17:19,019 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 18:17:19,800 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 18:17:21,650 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-06-08 18:22:14,802 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-06-08 18:23:56,574 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 18:23:56,593 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 18:23:56,601 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 18:23:56,607 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 18:23:56,615 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 18:23:56,623 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 18:23:56,630 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 18:23:56,637 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 18:23:56,644 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 18:23:56,651 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 18:23:56,659 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 18:23:56,665 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 18:23:56,673 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 18:23:56,680 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 18:23:56,686 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 18:23:56,692 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 18:23:56,699 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 18:23:56,699 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 18:23:57,451 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 18:23:58,947 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-06-08 18:24:38,477 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 18:24:38,496 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 18:24:38,501 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 18:24:38,508 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 18:24:38,513 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 18:24:38,519 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 18:24:38,525 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 18:24:38,530 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 18:24:38,536 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 18:24:38,542 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 18:24:38,548 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 18:24:38,553 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 18:24:38,560 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 18:24:38,565 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 18:24:38,571 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 18:24:38,578 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 18:24:38,583 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 18:24:38,583 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 18:24:39,297 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 18:24:40,989 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-06-08 19:02:23,317 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:02:23,332 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:02:23,338 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:02:23,343 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:02:23,348 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:02:23,354 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:02:23,359 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:02:23,364 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:02:23,371 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:02:23,376 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:02:23,381 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:02:23,386 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:02:23,392 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:02:23,396 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:02:23,401 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:02:23,405 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:02:23,410 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:02:23,412 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:02:24,038 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:02:27,226 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-06-08 19:03:07,941 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:03:07,955 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:03:07,962 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:03:07,967 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:03:07,972 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:03:07,977 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:03:07,982 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:03:07,987 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:03:07,991 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:03:07,997 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:03:08,001 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:03:08,006 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:03:08,010 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:03:08,016 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:03:08,021 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:03:08,026 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:03:08,032 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:03:08,032 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:03:08,866 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:03:10,006 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-06-08 19:03:15,874 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-06-08 19:03:17,490 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-06-08 19:03:19,029 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-06-08 19:03:40,294 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:03:40,310 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:03:40,315 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:03:40,322 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:03:40,328 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:03:40,333 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:03:40,339 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:03:40,344 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:03:40,350 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:03:40,356 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:03:40,362 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:03:40,367 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:03:40,374 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:03:40,380 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:03:40,386 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:03:40,391 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:03:40,396 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:03:40,396 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:03:41,067 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:03:42,259 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-06-08 19:03:45,873 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberk
+2020-06-08 19:03:49,724 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberk
+2020-06-08 19:03:56,211 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-06-08 19:03:59,710 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-06-08 19:05:55,949 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:05:55,964 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:05:55,969 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:05:55,977 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:05:55,982 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:05:55,988 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:05:55,993 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:05:55,998 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:05:56,003 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:05:56,009 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:05:56,015 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:05:56,022 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:05:56,029 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:05:56,035 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:05:56,042 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:05:56,048 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:05:56,054 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:05:56,055 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:05:56,874 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:06:02,753 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-06-08 19:06:04,842 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-06-08 19:06:23,451 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-06-08 19:06:45,255 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:06:45,269 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:06:45,274 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:06:45,281 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:06:45,287 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:06:45,293 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:06:45,298 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:06:45,302 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:06:45,307 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:06:45,312 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:06:45,317 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:06:45,322 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:06:45,328 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:06:45,334 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:06:45,339 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:06:45,344 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:06:45,349 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:06:45,349 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:06:46,030 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:06:47,429 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-06-08 19:06:48,871 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-06-08 19:06:53,070 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberj
+2020-06-08 19:07:56,606 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a numberh
+2020-06-08 19:08:09,138 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-06-08 19:08:19,130 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-06-08 19:09:04,164 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-06-08 19:09:04,448 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-06-08 19:09:04,633 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-06-08 19:09:05,085 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-06-08 19:09:05,584 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-06-08 19:09:10,072 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-06-08 19:09:38,720 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:09:38,736 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:09:38,742 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:09:38,748 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:09:38,753 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:09:38,760 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:09:38,765 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:09:38,772 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:09:38,779 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:09:38,785 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:09:38,792 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:09:38,798 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:09:38,806 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:09:38,812 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:09:38,819 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:09:38,826 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:09:38,831 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:09:38,831 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:09:39,528 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:10:15,473 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Typed character is not a number
+2020-06-08 19:32:24,533 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:32:24,547 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:32:24,553 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:32:24,558 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:32:24,562 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:32:24,567 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:32:24,573 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:32:24,578 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:32:24,584 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:32:24,589 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:32:24,594 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:32:24,599 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:32:24,604 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:32:24,609 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:32:24,614 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:32:24,619 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:32:24,624 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:32:24,625 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:32:25,157 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:32:58,925 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:32:58,941 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:32:58,946 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:32:58,951 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:32:58,956 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:32:58,961 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:32:58,966 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:32:58,972 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:32:58,977 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:32:58,982 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:32:58,987 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:32:58,992 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:32:58,997 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:32:59,002 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:32:59,008 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:32:59,013 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:32:59,019 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:32:59,019 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:32:59,612 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:36:16,460 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:36:16,477 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:36:16,483 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:36:16,489 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:36:16,496 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:36:16,502 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:36:16,507 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:36:16,514 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:36:16,520 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:36:16,525 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:36:16,531 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:36:16,537 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:36:16,542 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:36:16,548 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:36:16,554 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:36:16,559 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:36:16,565 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:36:16,566 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:36:17,135 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:36:59,814 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:36:59,836 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:36:59,844 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:36:59,850 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:36:59,856 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:36:59,862 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:36:59,869 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:36:59,876 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:36:59,881 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:36:59,887 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:36:59,893 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:36:59,898 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:36:59,905 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:36:59,910 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:36:59,916 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:36:59,921 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:36:59,930 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:36:59,931 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:37:01,287 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:38:54,081 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:38:54,095 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:38:54,099 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:38:54,105 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:38:54,111 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:38:54,116 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:38:54,121 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:38:54,126 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:38:54,132 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:38:54,138 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:38:54,144 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:38:54,149 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:38:54,156 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:38:54,163 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:38:54,169 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:38:54,176 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:38:54,182 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:38:54,183 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:38:54,952 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:38:57,177 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:38:59,242 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:39:01,461 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:39:02,587 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:39:03,095 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:39:03,135 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:18,093 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:40:18,110 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:40:18,123 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:40:18,128 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:40:18,134 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:40:18,140 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:40:18,146 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:40:18,152 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:40:18,159 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:40:18,166 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:40:18,174 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:40:18,181 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:40:18,188 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:40:18,196 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:40:18,202 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:40:18,209 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:40:18,216 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:40:18,216 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:40:19,051 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:40:23,269 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:27,022 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:32,473 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:32,513 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:32,559 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:32,636 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:32,970 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:32,989 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:33,136 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:33,461 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:33,719 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:33,827 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:34,036 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:34,192 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:37,358 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:37,742 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:38,071 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:39,052 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:39,569 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:39,606 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:39,647 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:39,700 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:39,726 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:39,769 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:39,807 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:39,855 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:39,892 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:39,936 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:39,972 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:40,018 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:40,055 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:41,932 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:45,612 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:48,646 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:48,768 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:48,942 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:49,068 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:49,569 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:49,735 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:49,877 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:52,026 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:52,141 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:52,260 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:52,341 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:52,512 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:52,717 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:53,092 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:53,101 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:53,397 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:53,450 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:53,651 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:53,835 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:54,141 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:54,452 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:54,691 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:55,069 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:57,233 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:57,742 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:57,782 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:57,823 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:57,869 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:57,904 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:57,951 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:57,985 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:40:58,288 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:26,704 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-08 19:41:26,717 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-08 19:41:26,723 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-08 19:41:26,728 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-08 19:41:26,733 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-08 19:41:26,738 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-08 19:41:26,744 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-08 19:41:26,749 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-08 19:41:26,755 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-08 19:41:26,760 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-08 19:41:26,766 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-08 19:41:26,771 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-08 19:41:26,776 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-08 19:41:26,781 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-08 19:41:26,786 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-08 19:41:26,792 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-08 19:41:26,798 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-08 19:41:26,798 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-08 19:41:27,534 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-08 19:41:32,340 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:32,367 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:32,545 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:32,654 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:32,748 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:32,934 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:32,952 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:33,196 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:33,245 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:33,563 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:35,284 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:35,793 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:35,833 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:35,877 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:35,927 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:35,959 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:36,008 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:36,050 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:36,080 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:40,402 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:54,653 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:54,937 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:56,125 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:56,813 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-08 19:41:57,325 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-13 18:32:01,452 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-13 18:32:01,466 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-13 18:32:01,471 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-13 18:32:01,477 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-13 18:32:01,483 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-13 18:32:01,488 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-13 18:32:01,493 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-13 18:32:01,499 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-13 18:32:01,504 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-13 18:32:01,511 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-13 18:32:01,517 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-13 18:32:01,521 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-13 18:32:01,527 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-13 18:32:01,537 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-13 18:32:01,542 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-13 18:32:01,548 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-13 18:32:01,553 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-13 18:32:01,553 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-13 18:32:02,662 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-13 18:33:21,246 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-13 18:33:21,271 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-13 18:33:21,278 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-13 18:33:21,286 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-13 18:33:21,293 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-13 18:33:21,300 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-13 18:33:21,309 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-13 18:33:21,316 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-13 18:33:21,322 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-13 18:33:21,330 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-13 18:33:21,338 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-13 18:33:21,346 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-13 18:33:21,353 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-13 18:33:21,361 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-13 18:33:21,373 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-13 18:33:21,381 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-13 18:33:21,389 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-13 18:33:21,389 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-13 18:33:22,223 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-13 18:34:16,689 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-13 18:34:16,706 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-13 18:34:16,712 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-13 18:34:16,718 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-13 18:34:16,725 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-13 18:34:16,732 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-13 18:34:16,741 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-13 18:34:16,747 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-13 18:34:16,754 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-13 18:34:16,760 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-13 18:34:16,767 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-13 18:34:16,774 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-13 18:34:16,781 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-13 18:34:16,786 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-13 18:34:16,793 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-13 18:34:16,798 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-13 18:34:16,805 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-13 18:34:16,805 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-13 18:34:17,595 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-13 18:34:29,621 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-13 18:34:35,543 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-13 18:34:36,024 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-13 18:34:36,390 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-13 18:34:38,242 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-13 18:34:38,566 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-13 18:34:38,786 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-13 18:34:39,148 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-13 18:34:39,240 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-13 18:35:41,535 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-13 18:35:41,553 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-13 18:35:41,560 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-13 18:35:41,571 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-13 18:35:41,576 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-13 18:35:41,581 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-13 18:35:41,586 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-13 18:35:41,591 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-13 18:35:41,596 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-13 18:35:41,601 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-13 18:35:41,606 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-13 18:35:41,612 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-13 18:35:41,616 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-13 18:35:41,622 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-13 18:35:41,627 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-13 18:35:41,632 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-13 18:35:41,641 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-13 18:35:41,641 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-13 18:35:42,400 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-13 18:44:12,010 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-13 18:44:12,031 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-13 18:44:12,036 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-13 18:44:12,041 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-13 18:44:12,047 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-13 18:44:12,054 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-13 18:44:12,059 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-13 18:44:12,065 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-13 18:44:12,070 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-13 18:44:12,075 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-13 18:44:12,080 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-13 18:44:12,085 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-13 18:44:12,091 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-13 18:44:12,096 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-13 18:44:12,100 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-13 18:44:12,104 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-13 18:44:12,109 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-13 18:44:12,111 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-13 18:44:12,842 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-13 18:44:25,687 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-13 18:44:29,646 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-14 11:04:03,947 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-14 11:04:03,960 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-14 11:04:03,966 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-14 11:04:03,971 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-14 11:04:03,976 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-14 11:04:03,981 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-14 11:04:03,985 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-14 11:04:03,990 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-14 11:04:03,995 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-14 11:04:04,000 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-14 11:04:04,005 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-14 11:04:04,009 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-14 11:04:04,015 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-14 11:04:04,019 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-14 11:04:04,024 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-14 11:04:04,030 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-14 11:04:04,035 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-14 11:04:04,036 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-14 11:04:05,068 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-14 11:04:20,020 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-14 11:04:20,543 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-14 11:04:52,358 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-14 11:04:52,375 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-14 11:04:52,380 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-14 11:04:52,387 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-14 11:04:52,392 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-14 11:04:52,397 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-14 11:04:52,402 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-14 11:04:52,407 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-14 11:04:52,413 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-14 11:04:52,419 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-14 11:04:52,425 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-14 11:04:52,430 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-14 11:04:52,436 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-14 11:04:52,442 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-14 11:04:52,447 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-14 11:04:52,452 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-14 11:04:52,462 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-14 11:04:52,463 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-14 11:04:53,237 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-14 11:04:54,837 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-14 11:04:55,437 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-14 11:04:56,055 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-14 11:04:56,624 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-14 11:04:57,458 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-14 11:04:57,610 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-14 11:04:57,888 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-14 11:04:58,055 INFO c.z.r.c.SellerRegistrationController [JavaFX Application Thread] Text in field is invalid
+2020-06-14 13:55:49,480 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-14 13:55:49,495 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-14 13:55:49,499 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-14 13:55:49,504 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-14 13:55:49,510 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-14 13:55:49,516 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-14 13:55:49,529 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-14 13:55:49,535 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-14 13:55:49,543 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-14 13:55:49,552 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-14 13:55:49,558 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-14 13:55:49,564 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-14 13:55:49,570 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-14 13:55:49,577 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-14 13:55:49,583 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-14 13:55:49,590 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-14 13:55:49,596 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-14 13:55:49,597 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-14 13:55:50,337 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-14 13:55:56,296 INFO c.z.r.c.HomeScreenController [JavaFX Application Thread] Home Controller run action
+2020-06-22 17:46:27,287 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-22 17:46:27,302 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-22 17:46:27,307 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-22 17:46:27,311 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-22 17:46:27,316 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-22 17:46:27,320 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-22 17:46:27,326 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-22 17:46:27,330 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-22 17:46:27,335 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-22 17:46:27,340 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-22 17:46:27,344 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-22 17:46:27,349 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-22 17:46:27,353 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-22 17:46:27,358 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-22 17:46:27,366 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-22 17:46:27,372 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-22 17:46:27,378 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-22 17:46:27,379 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-22 17:46:28,151 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-22 17:47:29,918 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-22 17:47:29,931 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-22 17:47:29,936 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-22 17:47:29,940 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-22 17:47:29,946 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-22 17:47:29,952 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-22 17:47:29,956 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-22 17:47:29,961 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-22 17:47:29,966 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-22 17:47:29,971 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-22 17:47:29,976 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-22 17:47:29,980 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-22 17:47:29,985 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-22 17:47:29,990 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-22 17:47:29,994 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-22 17:47:29,999 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-22 17:47:30,004 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-22 17:47:30,004 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-22 17:47:30,790 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-22 18:49:49,433 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-22 18:49:49,456 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-22 18:49:49,464 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-22 18:49:49,471 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-22 18:49:49,479 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-22 18:49:49,486 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-22 18:49:49,493 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-22 18:49:49,499 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-22 18:49:49,506 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-22 18:49:49,513 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-22 18:49:49,520 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-22 18:49:49,526 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-22 18:49:49,532 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-22 18:49:49,538 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-22 18:49:49,544 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-22 18:49:49,549 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-22 18:49:49,557 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-22 18:49:49,557 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-22 18:49:50,703 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-22 22:49:54,469 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-22 22:49:54,488 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-22 22:49:54,493 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-22 22:49:54,499 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-22 22:49:54,504 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-22 22:49:54,509 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-22 22:49:54,517 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-22 22:49:54,523 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-22 22:49:54,529 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-22 22:49:54,534 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-22 22:49:54,539 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-22 22:49:54,544 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-22 22:49:54,550 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-22 22:49:54,555 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-22 22:49:54,561 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-22 22:49:54,565 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-22 22:49:54,570 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-22 22:49:54,570 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-22 22:49:55,477 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-22 23:21:09,645 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-22 23:21:09,659 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-22 23:21:09,663 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-22 23:21:09,668 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-22 23:21:09,672 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-22 23:21:09,678 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-22 23:21:09,682 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-22 23:21:09,688 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-22 23:21:09,692 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-22 23:21:09,697 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-22 23:21:09,701 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-22 23:21:09,706 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-22 23:21:09,711 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-22 23:21:09,715 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-22 23:21:09,720 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-22 23:21:09,724 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-22 23:21:09,730 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-22 23:21:09,730 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-22 23:21:11,004 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-25 07:33:04,002 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-25 07:33:04,019 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-25 07:33:04,025 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-25 07:33:04,031 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-25 07:33:04,037 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-25 07:33:04,045 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-25 07:33:04,051 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-25 07:33:04,057 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-25 07:33:04,064 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-25 07:33:04,071 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-25 07:33:04,077 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-25 07:33:04,083 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-25 07:33:04,090 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-25 07:33:04,098 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-25 07:33:04,104 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-25 07:33:04,111 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-25 07:33:04,117 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-25 07:33:04,117 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-25 07:33:05,286 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-06-25 17:03:58,349 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-06-25 17:03:58,368 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-06-25 17:03:58,375 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-06-25 17:03:58,382 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-06-25 17:03:58,390 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-06-25 17:03:58,397 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-06-25 17:03:58,405 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-06-25 17:03:58,413 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-06-25 17:03:58,420 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-06-25 17:03:58,428 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-06-25 17:03:58,436 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-06-25 17:03:58,443 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-06-25 17:03:58,450 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-06-25 17:03:58,458 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-06-25 17:03:58,466 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-06-25 17:03:58,474 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-06-25 17:03:58,488 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-06-25 17:03:58,488 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-06-25 17:03:59,674 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-07-01 04:59:39,062 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-07-01 04:59:39,079 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-07-01 04:59:39,086 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-07-01 04:59:39,092 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-07-01 04:59:39,099 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-07-01 04:59:39,106 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-07-01 04:59:39,113 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-07-01 04:59:39,120 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-07-01 04:59:39,127 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-07-01 04:59:39,137 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-07-01 04:59:39,143 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-07-01 04:59:39,150 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-07-01 04:59:39,155 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-07-01 04:59:39,162 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-07-01 04:59:39,167 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-07-01 04:59:39,172 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-07-01 04:59:39,177 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-07-01 04:59:39,177 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-07-01 04:59:40,890 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-07-01 05:10:01,105 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-07-01 05:10:01,126 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-07-01 05:10:01,134 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-07-01 05:10:01,142 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-07-01 05:10:01,150 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-07-01 05:10:01,157 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-07-01 05:10:01,165 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-07-01 05:10:01,174 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-07-01 05:10:01,181 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-07-01 05:10:01,189 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-07-01 05:10:01,196 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-07-01 05:10:01,208 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-07-01 05:10:01,218 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-07-01 05:10:01,226 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-07-01 05:10:01,237 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-07-01 05:10:01,246 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-07-01 05:10:01,254 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-07-01 05:10:01,254 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-07-01 05:10:02,691 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-07-01 05:10:26,563 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-07-01 05:10:26,588 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-07-01 05:10:26,598 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-07-01 05:10:26,609 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-07-01 05:10:26,617 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-07-01 05:10:26,627 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-07-01 05:10:26,636 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-07-01 05:10:26,646 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-07-01 05:10:26,659 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-07-01 05:10:26,671 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-07-01 05:10:26,681 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-07-01 05:10:26,690 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-07-01 05:10:26,700 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-07-01 05:10:26,712 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-07-01 05:10:26,722 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-07-01 05:10:26,731 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-07-01 05:10:26,741 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-07-01 05:10:26,742 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-07-01 05:10:27,809 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-07-01 05:20:38,215 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-07-01 05:20:38,231 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-07-01 05:20:38,235 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-07-01 05:20:38,241 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-07-01 05:20:38,246 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-07-01 05:20:38,251 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-07-01 05:20:38,256 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-07-01 05:20:38,262 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-07-01 05:20:38,267 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-07-01 05:20:38,272 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-07-01 05:20:38,277 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-07-01 05:20:38,282 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-07-01 05:20:38,287 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-07-01 05:20:38,293 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-07-01 05:20:38,299 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-07-01 05:20:38,305 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-07-01 05:20:38,313 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-07-01 05:20:38,313 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-07-01 05:20:39,045 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown
+2020-07-01 05:21:07,321 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Keep Calm Medium
+2020-07-01 05:21:07,334 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black
+2020-07-01 05:21:07,339 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Black Italic
+2020-07-01 05:21:07,344 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold
+2020-07-01 05:21:07,349 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed
+2020-07-01 05:21:07,354 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Condensed Italic
+2020-07-01 05:21:07,359 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Bold Italic
+2020-07-01 05:21:07,364 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed
+2020-07-01 05:21:07,369 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Condensed Italic
+2020-07-01 05:21:07,374 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Italic
+2020-07-01 05:21:07,380 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light
+2020-07-01 05:21:07,385 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Light Italic
+2020-07-01 05:21:07,390 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium
+2020-07-01 05:21:07,395 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Medium Italic
+2020-07-01 05:21:07,400 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Regular
+2020-07-01 05:21:07,404 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin
+2020-07-01 05:21:07,410 INFO c.z.r.StartUp [JavaFX-Launcher] Loaded Font Roboto Thin Italic
+2020-07-01 05:21:07,410 TRACE c.z.r.StartUp [JavaFX-Launcher] Completed init execution
+2020-07-01 05:21:08,196 TRACE c.z.r.StartUp [JavaFX Application Thread] Primary Stage shown

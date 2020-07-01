@@ -170,7 +170,7 @@ public class PaneNavigator{
 	 * if there is no set parent pane
 	 */
 	public void addPaneAsSubPaneAndShow(Pane newPane, ComplementaryActions actionsForNewPane) throws NoParentPaneException {
-		if(!hasParentPane())
+		if(!hasPrimaryPane())
 			throw new NoParentPaneException("No Parent Pane has been set");
 		
 		Pane parentPane = paneQueue.getLast();
@@ -272,7 +272,7 @@ public class PaneNavigator{
 		return null;
 	}
 	
-	public boolean hasParentPane() {
+	public boolean hasPrimaryPane() {
 		 return paneQueue.size() > 0;
 	}
 	

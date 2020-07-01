@@ -2,6 +2,7 @@ package com.zapsoftco.relica.controllers;
 
 import java.io.IOException;
 import java.net.URL;
+import java.util.ResourceBundle;
 
 import com.zapsoftco.relica.StartUp;
 import com.zapsoftco.relica.util.Execution;
@@ -17,6 +18,7 @@ import javafx.animation.Transition;
 import javafx.animation.TranslateTransition;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
+import javafx.fxml.Initializable;
 import javafx.scene.Node;
 import javafx.scene.Parent;
 import javafx.scene.control.Button;
@@ -28,7 +30,7 @@ import javafx.scene.layout.StackPane;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
 
-public class SignupController implements Controller {
+public class SignupController implements  Initializable {
 	
 	@FXML
 	private VBox usernameForm;
@@ -73,25 +75,9 @@ public class SignupController implements Controller {
 	private Transition passwordFormTransition;
 	private Transition emailFormTransition;
 	
-	@Override
-	public Parent showUI() {
-		try {
-			URL fxmlUrl = ResourceManager.getLocalResource("fxml/Signup.fxml");
-			FXMLLoader loader = new FXMLLoader(fxmlUrl);
-			loader.setController(this);
-			loader.load();
-			
-			instantiateTransitions();
-			return this.usernameForm;
-			
-		} catch (IOException e) {
-			
-			e.printStackTrace();
-		}
-		return new Pane();
+	public void checkForUsername() {
+		//TODO: Write the logic for this method
 	}
-	
-	public void checkForUsername() {}
 	
 	public void slideToPasswordForm() {
 		PaneNavigator paneNavigator = StartUp.getDefaultPaneNavigator();
@@ -238,5 +224,10 @@ public class SignupController implements Controller {
 				emailFormTransition.setOnFinished(e -> exec.execute());
 			}
 		};
+	}
+
+	@Override
+	public void initialize(URL location, ResourceBundle resources) {
+		instantiateTransitions();
 	}
 }

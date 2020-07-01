@@ -9,22 +9,10 @@ import javafx.scene.layout.Pane;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class HomeScreenController implements Controller {
+public class HomeScreenController {
 
 	Logger logger = LoggerFactory.getLogger(this.getClass());
 
-	@Override
-	public Parent showUI() {
-		try {
-			FXMLLoader loader = new FXMLLoader(ResourceManager.getLocalResource("fxml/HomeScreen.fxml"));
-			loader.setController(this);
-			return loader.load();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		
-		return new Pane();
-	}
 
 	public void runAction() {
 		logger.info("Home Controller run action");

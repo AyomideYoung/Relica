@@ -9,6 +9,7 @@
 <?import javafx.scene.control.Label?>
 
 <VBox xmlns:fx="http://javafx.com/fxml/1"
+	  fx:controller="com.zapsoftco.relica.controllers.HomeScreenController"
 		styleClass="pane"
 		alignment = "CENTER"
 		spacing = "12">

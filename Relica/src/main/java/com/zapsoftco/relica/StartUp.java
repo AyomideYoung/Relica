@@ -8,15 +8,13 @@ import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
 
-import com.zapsoftco.relica.controllers.HomeScreenController;
-import com.zapsoftco.relica.controllers.ItemsDisplayPageController;
-import com.zapsoftco.relica.controllers.LoginController;
-import com.zapsoftco.relica.controllers.SignupController;
+import com.zapsoftco.relica.controllers.*;
 import com.zapsoftco.relica.util.PaneNavigator;
 import com.zapsoftco.relica.util.PaneNavigator.ComplementaryActions;
 import com.zapsoftco.relica.util.ResourceManager;
 import com.zapsoftco.relica.util.TtfNameFilter;
 
+import com.zapsoftco.relica.viewloaders.*;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -48,7 +46,7 @@ public class StartUp extends Application {
 		Scene scene = new Scene(pane, 800, 600);
 		scene.getStylesheets().add("/application.css");
 		defaultPaneNavigator = new PaneNavigator(scene);
-		loadItemsDisplayScreen();
+		loadSellerRegistration();
 
 		stage.setScene(scene);
 		stage.show();
@@ -60,29 +58,31 @@ public class StartUp extends Application {
 		
 	}
 	
-	private Parent loadLogin() {
-		return new LoginController().showUI();
+	private void loadLogin(){
+		ViewLoader loader = new LoginViewLoader();
+		loader.loadView(defaultPaneNavigator, true);
 	}
 	
 	private void loadSignup() {
-		SignupController controller = new SignupController();
-		Pane pane = (Pane)controller.showUI();
-		ComplementaryActions ppp = controller.getUsernameFormComplementaryActions();
-		
-		defaultPaneNavigator.setPrimaryPane(pane, ppp);
+		SignupViewLoader viewLoader = new SignupViewLoader();
+		viewLoader.loadView(defaultPaneNavigator, true);
 		setStageTitle("Signup on Relica");
+	}
+
+	private void loadSellerRegistration(){
+		ViewLoader viewLoader = new SellerRegistrationViewLoader();
+		viewLoader.loadView(defaultPaneNavigator, true);
 	}
 	
 	private void loadHomeScreen() {
-		HomeScreenController controller = new HomeScreenController();
-		Pane pane = (Pane)controller.showUI();
-		defaultPaneNavigator.setPrimaryPane(pane);
+		HomeScreenViewLoader viewLoader = new HomeScreenViewLoader();
+		viewLoader.loadView(defaultPaneNavigator, true);
+
 	}
 	
 	private void loadItemsDisplayScreen() {
-		ItemsDisplayPageController controller = new ItemsDisplayPageController();
-		Pane pane = (Pane) controller.showUI();
-		defaultPaneNavigator.setPrimaryPane(pane);
+		ItemsDisplayViewLoader viewLoader = new ItemsDisplayViewLoader();
+		viewLoader.loadView(defaultPaneNavigator, true);
 
 	}
 	

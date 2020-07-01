@@ -24,7 +24,7 @@ import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
 import javafx.scene.layout.VBox;
 
-public class LoginController implements Controller{
+public class LoginController{
 
 	@FXML
 	Button loginButton;
@@ -47,7 +47,7 @@ public class LoginController implements Controller{
 	
 	
 	public void showSignupPane() {
-		Transition transition = createTransition(rootPane);
+		Transition transition = createSlideTransition(rootPane);
 		transition.play();
 		
 	}
@@ -56,7 +56,7 @@ public class LoginController implements Controller{
 		
 	}
 	
-	private Transition createTransition(Node node) {
+	private Transition createSlideTransition(Node node) {
 		TranslateTransition translate = new TranslateTransition();
 		FadeTransition fade = new FadeTransition();
 		
@@ -75,17 +75,5 @@ public class LoginController implements Controller{
 		return transition;
 	}
 
-	@Override
-	public Parent showUI() {
-		try {
-			URL loginFxmlLocation = ResourceManager.getLocalResource("fxml/Login.fxml");
-			Pane pane = FXMLLoader.load(loginFxmlLocation);
-			return pane;
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		return new StackPane();
-	}
-	
 	
 }

@@ -8,7 +8,9 @@
 <?import java.lang.String?>
 
 <VBox fx:id="rootPane" styleClass="pane" spacing="3"
-      xmlns:fx="http://javafx.com/fxml/1" alignment="TOP_CENTER">
+      xmlns:fx="http://javafx.com/fxml/1" alignment="TOP_CENTER"
+      fx:controller="com.zapsoftco.relica.controllers.ItemsDisplayPageController">
+
     <VBox id="header" styleClass="header" spacing="15" alignment="CENTER">
         <ImageView>
             <Image url="@../images/logo-and-text.png"
