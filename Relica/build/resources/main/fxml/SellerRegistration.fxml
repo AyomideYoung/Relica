@@ -12,7 +12,8 @@
       fillWidth="false"
       spacing="6"
       xmlns:fx="http://javafx.com/fxml"
-      styleClass="pane">
+      styleClass="pane"
+        fx:controller="com.zapsoftco.relica.controllers.SellerRegistrationController">
     <Label text="Phone Number"></Label>
     <HBox spacing="5"
             fx:id="phoneNumberInputContainer"
