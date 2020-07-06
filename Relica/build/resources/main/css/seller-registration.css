@@ -10,14 +10,79 @@
     -fx-background-color: white;
 }
 
-#submitBtn {
+.button {
     -fx-background-color: #f07518;
     -fx-background-radius: 20px;
     -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: 600;
     -fx-padding: 5px;
 
 }
 
+.button:hover {
+	-fx-background-color: #d8650e;
+}
+
+.green-button{
+    -fx-background-color: #1da00a;
+    -fx-text-fill: white;
+}
+
+.green-button:hover{
+    -fx-background-color: #199208;
+}
+
+#header {
+    -fx-font-family: "Keep Calm Medium";
+    -fx-font-size: 3em;
+}
+
 .pane{
     -fx-background-color: white;
+}
+
+.text-area {
+    -fx-background-color: #dadada, white;
+    -fx-background-radius: 0px;
+    -fx-background-insets: 9px 0px 9px 0px, 0px 2px 0px 2px;
+    -fx-padding: 3px;
+
+    -fx-font-family: "Roboto Regular";
+    -fx-font-size: 16px;
+
+    -fx-border-width: 3px;
+    -fx-border-style: solid;
+    -fx-border-color: transparent transparent #cfb09a transparent;
+}
+
+#plus-icon {
+     -fx-font-family: "Roboto Regular";
+     -fx-font-size: 16px;
+     -fx-padding: 2px;
+}
+
+.text-field{
+     -fx-font-family: "Roboto Regular";
+     -fx-font-size: 16px;
+
+     -fx-padding: 2px;
+}
+
+.text-area:focused {
+        -fx-border-color: transparent transparent #f98934 transparent;
+}
+
+.text-area .scroll-pane {
+    -fx-padding: 3px;
+}
+
+.text-area .scroll-pane .content {
+    -fx-background-color: white;
+}
+
+.sub-header {
+    -fx-font-family: "Roboto Light";
+    -fx-font-posture: italic;
+    -fx-font-size: 1.8em;
 }

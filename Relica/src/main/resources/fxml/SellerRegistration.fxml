@@ -1,35 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import java.lang.*?>
-<?import java.util.*?>
-<?import javafx.scene.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
+<?import java.lang.Double?>
+<?import java.lang.String?>
+<VBox alignment="CENTER" styleClass="pane" xmlns="http://javafx.com/javafx/10.0.2-internal"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.zapsoftco.relica.controllers.SellerRegistrationController"
+        spacing="30">
+    <Label fx:id="header">Become A Seller</Label>
+    <StackPane>
 
-
-<VBox xmlns="http://javafx.com/javafx"
-      alignment="CENTER"
-      fillWidth="false"
-      spacing="6"
-      xmlns:fx="http://javafx.com/fxml"
-      styleClass="pane"
-        fx:controller="com.zapsoftco.relica.controllers.SellerRegistrationController">
-    <Label text="Phone Number"></Label>
-    <HBox spacing="5"
-            fx:id="phoneNumberInputContainer"
-            id="phone-number-input-container">
-        <Label text="+"/>
-        <TextField fx:id="phoneNumberField"
-                   prefColumnCount="25"
-                     promptText="Hi....."
-                    />
-    </HBox>
-    <Button fx:id="submitBtn"
-            text="Submit"
-            prefWidth="${phoneNumberInputContainer.width}"/>
-
-
+        <VBox fx:id="bioBox" maxWidth="600" alignment="CENTER" visible="false" fillWidth="true" spacing="6">
+            <Label styleClass="sub-header">Bio (Your professional Information)</Label>
+            <TextArea promptText="Type in your seller bio here..."/>
+            <HBox alignment="CENTER" spacing="4.0">
+                <Button text="Back" HBox.hgrow="ALWAYS" onAction="#showPhoneNumberBox">
+                    <maxWidth>
+                        <Double fx:constant="MAX_VALUE"/>
+                    </maxWidth>
+                </Button>
+                <Button styleClass="green-button" text="Submit" onAction="#submitNewSellerData" HBox.hgrow="ALWAYS">
+                    <maxWidth>
+                        <Double fx:constant="MAX_VALUE"/>
+                    </maxWidth>
+                </Button>
+            </HBox>
+        </VBox>
+        <VBox fx:id="phoneNumberBox" fillWidth="true" alignment="CENTER" maxWidth="600" spacing="6">
+            <Label styleClass="sub-header" text="Phone Number"/>
+            <HBox id="phone-number-input-container" fx:id="phoneNumberInputContainer" spacing="5">
+                <Label id="plus-icon" textAlignment="CENTER" alignment="BASELINE_CENTER" text="+"/>
+                <TextField fx:id="phoneNumberField" prefColumnCount="25" promptText="234xxxxxxxx..."/>
+            </HBox>
+            <Button fx:id="nextBtn"
+                    disable="true"
+                    styleClass="green-button"
+                    prefWidth="${phoneNumberInputContainer.width}"
+                    onAction="#showBioBox"
+                    text="Next"/>
+        </VBox>
+    </StackPane>
     <stylesheets>
-        <String fx:value="/css/seller-registration.css"/>
-    </stylesheets>
+    <String fx:value="/css/seller-registration.css"/>
+</stylesheets>
 </VBox>
+
