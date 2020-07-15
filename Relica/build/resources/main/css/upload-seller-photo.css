@@ -1,0 +1,44 @@
+#avatarRegion {
+    -fx-background-image: url('../images/avatar.png');
+    -fx-background-repeat: no-repeat no-repeat;
+}
+.button {
+    -fx-background-color: #f07518;
+    -fx-background-radius: 20px;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: 600;
+    -fx-padding: 5px;
+
+}
+
+.pane{
+    -fx-background-color: white;
+}
+
+#header{
+    -fx-font-size: 3em;
+    -fx-font-family: "Keep Calm Medium"
+}
+
+.button:hover {
+	-fx-background-color: #d8650e;
+}
+
+#add-btn {
+    -fx-background-radius: 50%;
+    -fx-padding: 10px;
+    }
+
+.green-button{
+    -fx-background-color: #1da00a;
+    -fx-text-fill: white;
+}
+
+.green-button:hover{
+    -fx-background-color: #199208;
+}
+
+.green-button:pressed{
+     -fx-background-color: #f07518;
+}

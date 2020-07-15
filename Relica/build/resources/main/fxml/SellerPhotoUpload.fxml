@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<VBox xmlns="http://javafx.com/javafx"
+      styleClass="pane"
+      xmlns:fx="http://javafx.com/fxml" alignment="CENTER"
+        spacing="10">
+    <Label id="header">Upload your Photo</Label>
+    <AnchorPane fx:id="avatarRegion"
+            prefWidth="300"
+                prefHeight="300"
+            maxWidth="300"
+            maxHeight="300">
+        <Button id="add-btn" styleClass="green-button" onAction="#chooseAndDisplayImageFile">
+            <AnchorPane.bottomAnchor>1.0</AnchorPane.bottomAnchor>
+            <AnchorPane.rightAnchor>1.0</AnchorPane.rightAnchor>
+            <graphic>
+                <ImageView>
+                    <Image url="@/images/black-pencil.png"
+                            requestedWidth="48"
+                            requestedHeight="48"
+                            smooth="true"/>
+                </ImageView>
+            </graphic>
+        </Button>
+    </AnchorPane>
+    <Button text="Submit" prefWidth="${avatarRegion.width}" onAction="#submitSellerInfoAndPhoto"></Button>
+    <stylesheets>
+        <String fx:value="/css/upload-seller-photo.css"/>
+    </stylesheets>
+</VBox>
