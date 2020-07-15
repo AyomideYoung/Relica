@@ -9,7 +9,7 @@ import javafx.scene.layout.Pane;
 
 import java.io.IOException;
 
-public class HomeScreenViewLoader implements ViewLoader {
+public class HomeScreenViewLoader implements ViewLoader<Void> {
 
     @Override
     public void loadView(PaneNavigator navigator, boolean isPrimaryView) {

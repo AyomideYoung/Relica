@@ -9,7 +9,7 @@ import javafx.scene.layout.Pane;
 import java.io.IOException;
 import java.net.URL;
 
-public class ItemsDisplayViewLoader implements ViewLoader {
+public class ItemsDisplayViewLoader implements ViewLoader<Void> {
 
     @Override
     public void loadView(PaneNavigator navigator, boolean isPrimaryView) {

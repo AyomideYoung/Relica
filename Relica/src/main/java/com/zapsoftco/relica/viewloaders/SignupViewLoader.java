@@ -11,7 +11,7 @@ import javafx.scene.layout.Pane;
 import java.io.IOException;
 import java.net.URL;
 
-public class SignupViewLoader implements ViewLoader {
+public class SignupViewLoader implements ViewLoader<Void> {
 
     @Override
     public void loadView(PaneNavigator navigator, boolean isPrimaryPane) {
@@ -28,9 +28,7 @@ public class SignupViewLoader implements ViewLoader {
             else
                 navigator.addPaneAsSubPaneAndShow(pane, usernameFormComplementaryActions);
 
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (NoParentPaneException e) {
+        } catch (IOException | NoParentPaneException e) {
             e.printStackTrace();
         }
 

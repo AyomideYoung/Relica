@@ -9,7 +9,7 @@ import javafx.scene.layout.Pane;
 import java.io.IOException;
 import java.net.URL;
 
-public class LoginViewLoader implements ViewLoader{
+public class LoginViewLoader implements ViewLoader<Void>{
 
 
     @Override

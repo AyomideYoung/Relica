@@ -9,6 +9,7 @@ import java.net.URISyntaxException;
 import java.net.URL;
 
 import com.zapsoftco.relica.controllers.*;
+import com.zapsoftco.relica.models.SellerInfoModel;
 import com.zapsoftco.relica.util.PaneNavigator;
 import com.zapsoftco.relica.util.PaneNavigator.ComplementaryActions;
 import com.zapsoftco.relica.util.ResourceManager;
@@ -46,7 +47,7 @@ public class StartUp extends Application {
 		Scene scene = new Scene(pane, 800, 600);
 		scene.getStylesheets().add("/application.css");
 		defaultPaneNavigator = new PaneNavigator(scene);
-		loadSellerRegistration();
+		loadSellerPhotoUpload();
 
 		stage.setScene(scene);
 		stage.show();
@@ -78,6 +79,18 @@ public class StartUp extends Application {
 		HomeScreenViewLoader viewLoader = new HomeScreenViewLoader();
 		viewLoader.loadView(defaultPaneNavigator, true);
 
+	}
+
+	private void loadSellerPhotoUpload(){
+		ViewLoader<SellerInfoModel> viewLoader = new SellerPhotoUploadViewLoader();
+
+		SellerInfoModel model = new SellerInfoModel();
+		model.setBio("a");
+		model.setUsername("a");
+		model.setSellerPhoneNumber(100000L);
+
+		viewLoader.setDataModel(model);
+		viewLoader.loadView(defaultPaneNavigator, true);
 	}
 	
 	private void loadItemsDisplayScreen() {
